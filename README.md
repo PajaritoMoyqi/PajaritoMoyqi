@@ -1,5 +1,7 @@
 안녕하세요. 개발자이기도 하고 4개국어 구사자이기도 하고 노래도 좋아하는 사람입니다.
 
+***
+
 
 - Blogs & Projects
 
@@ -38,11 +40,17 @@ etc :
 
 ***
 
-- 한 주 목표
-- [x] 1일 1커밋
-- [x] PWA
-- [x] React 중급 강의 1/3
-- [x] 블로그 서비스 업데이트
+![PajaritoMoyqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PajaritoMoyqi&show_icons=true&theme=radical)
+
+
+***
+
+- 한 주 목표 (21. 8. 16 ~ 21. 8. 22)
+  - [x] 1일 1커밋
+  - [x] PWA 강의
+  - [x] React 중급 강의 1/3
+  - [x] 블로그 서비스 업데이트
 
 - 방문자
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPajaritoMoyqi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
