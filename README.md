@@ -5,7 +5,7 @@
 
 - Blogs & Projects
 
-[Pajarito Projects Blog](http://www.pajaritoprojects.com "작은새 블로그")
+Pajarito Projects Blog : 
 <a href="https://www.pajaritoprojects.com"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
 
 
