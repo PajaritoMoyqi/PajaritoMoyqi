@@ -45,12 +45,12 @@ etc :
 
 ***
 
-- 한 주 목표 (21. 8. 16 ~ 21. 8. 22)
+- 한 주 목표 ( 21. 8. 16 ~ 21. 8. 22 )
   - [x] 1일 1커밋
   - [x] PWA 강의
   - [x] React 중급 강의 1/3
   - [x] 블로그 서비스 업데이트
 
-- 방문자 (2021-08-20T17:00 ~ )
+- 방문자 ( 2021-08-20T17:00 ~  )
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPajaritoMoyqi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
