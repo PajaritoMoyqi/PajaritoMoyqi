@@ -42,7 +42,7 @@ etc :
 
 ![PajaritoMoyqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PajaritoMoyqi&show_icons=true&theme=radical)
 <br>
-&#8251; total commits는 비공개 repository(e.g. 이미 배포한 [개인블로그](http://www.pajaritoprojects.com "작은새 블로그"))의 commits이 포함되지 않은 수입니다.
+&#8251; total commits는 비공개 repository(e.g. 이미 배포한 [개인블로그](http://www.pajaritoprojects.com "작은새 블로그") 등)의 commits이 포함되지 않은 수입니다.
 
 ***
 
