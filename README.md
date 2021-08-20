@@ -3,6 +3,7 @@
 
 - Blogs & Projects
 
+[Pajarito Projects Blog](http://www.pajaritoprojects.com "작은새 블로그")
 <a href="https://www.pajaritoprojects.com"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
 
 
@@ -34,3 +35,14 @@ Server :
 <br>
 etc : 
 <img src="https://img.shields.io/badge/PWA-354A78?style=flat-square&logoColor=white"/></a>
+
+***
+
+- 한 주 목표
+- [x] 1일 1커밋
+- [x] PWA
+- [x] React 중급 강의 1/3
+- [x] 블로그 서비스 업데이트
+
+- 방문자
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPajaritoMoyqi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
