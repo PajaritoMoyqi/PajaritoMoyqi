@@ -34,6 +34,9 @@ Server :
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
 <br>
+Platform : 
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>
+<br>
 etc : 
 <img src="https://img.shields.io/badge/PWA-354A78?style=flat-square&logoColor=white"/></a>
 
