@@ -36,6 +36,7 @@ Server :
 <br>
 Platform : 
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 <br>
 etc : 
 <img src="https://img.shields.io/badge/PWA-354A78?style=flat-square&logoColor=white"/></a>
