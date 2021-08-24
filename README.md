@@ -40,6 +40,7 @@ Platform :
 <br>
 etc : 
 <img src="https://img.shields.io/badge/PWA-354A78?style=flat-square&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Responsive-6E85B2?style=flat-square&logoColor=white"/></a>
 
 ***
 
