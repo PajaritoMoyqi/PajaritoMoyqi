@@ -5,42 +5,44 @@
 
 - Blogs & Projects
 
-<a href="https://www.pajaritoprojects.com"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
+개인 프로젝트 블로그 <a href="https://www.pajaritoprojects.com"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
 
 
 - Skills
 
 Template : 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/EJS-b4ca65?style=flat-square&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-b4ca65?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <br>
 Javascript : 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
 <br>
 Front-End : 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
 Back-End :
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <br>
 Database : 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <br>
 Server : 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 <br>
-Platform : 
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
+Deploy : 
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/GithubPages-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br>
 etc : 
-<img src="https://img.shields.io/badge/PWA-354A78?style=flat-square&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Responsive-6E85B2?style=flat-square&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PWA-354A78?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive-6E85B2?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebCrwaling-B1D4E0?style=flat-square&logoColor=white"/>
 
 ***
 
