@@ -22,7 +22,7 @@ Javascript :
 <br>
 Front-End : 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<br>
+<br>  
 Back-End :
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
@@ -42,7 +42,7 @@ Deploy :
 etc : 
 <img src="https://img.shields.io/badge/PWA-354A78?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Responsive-6E85B2?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebCrwaling-B1D4E0?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebCrawling-B1D4E0?style=flat-square&logoColor=white"/>
 
 ***
 
@@ -57,7 +57,7 @@ etc :
   - [ ] PWA 강의
   - [x] React 중급 강의 마무리(nomad)
   - [ ] 블로그 서비스 업데이트
-  - [ ] React 프로젝트 아이디어
+  - [x] React 프로젝트 아이디어
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
