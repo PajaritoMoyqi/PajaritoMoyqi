@@ -56,7 +56,7 @@ etc :
   - [x] 1일 1커밋
   - [ ] PWA 강의
   - [ ] Login 화면 & 기능 구현(React - github pages)
-  - [ ] 관통사 2차 홈페이지 구현 시작(React - github pages)
+  - [ ] 관통사 2차 홈페이지 구현 최소 3일
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
