@@ -6,7 +6,7 @@
 - Blogs & Projects
 
 개인 프로젝트 블로그 <a href="https://www.pajaritoprojects.com"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
-
+면접 시뮬레이터 (관통사) <a href="https://pajaritomoyqi.github.io/Tour_Interview/"><img src="https://img.shields.io/static/v1?message=관통사 2차 면접 시뮬레이터&color=<COLOR>"/></a>
 
 - Skills
 
