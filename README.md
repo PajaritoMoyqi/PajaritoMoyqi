@@ -5,13 +5,13 @@
 
 - Blogs & Projects
 
-개인 프로젝트 블로그 <a href="https://www.pajaritoprojects.com"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
+개인 프로젝트 블로그 <a href="https://www.pajaritoprojects.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
 <br>
-면접 시뮬레이터 (관통사) <a href="https://pajaritomoyqi.github.io/Tour_Interview"><img src="https://img.shields.io/static/v1?label=Project&message=관통사 2차 면접 시뮬레이터&color=<COLOR>"/></a>
+면접 시뮬레이터 (관통사) <a href="https://pajaritomoyqi.github.io/Tour_Interview" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Project&message=관통사 2차 면접 시뮬레이터&color=<COLOR>"/></a>
 <br>
 미니 프로젝트들
 <br>
-<a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-Login"><img src="https://img.shields.io/static/v1?label=Mini Project&message=로그인 프로젝트&color=<COLOR>"/></a>
+<a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-Login" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Mini Project&message=로그인 프로젝트&color=<COLOR>"/></a>
 
 - Skills
 
