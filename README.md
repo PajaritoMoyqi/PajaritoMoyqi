@@ -11,7 +11,7 @@
 <br>
 미니 프로젝트들
 <br>
-<a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-Login" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Mini Project&message=로그인 프로젝트&color=<COLOR>"/></a>
+<a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-Login" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Mini&message=로그인 프로젝트&color=<COLOR>"/></a>
 
 - Skills
 
