@@ -62,6 +62,7 @@ etc :
   - [ ] PWA 강의
   - [x] Login 화면 서버 혹은 Oauth와 연결 (Team Hyena project)
   - [ ] 관통사 2차 홈페이지 구현 최소 2일
+  - [ ] Repo - Project 연결해보기
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
