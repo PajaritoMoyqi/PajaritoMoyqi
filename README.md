@@ -57,10 +57,10 @@ etc :
 
 ***
 
-- 한 주 목표 ( 21. 9. 6 ~ 21. 9. 12 )
+- 한 주 목표 ( 21. 9. 20 ~ 21. 9. 26 )
   - [x] 1일 1커밋
   - [ ] PWA 강의
-  - [x] Login 화면 서버 혹은 Oauth와 연결 (Team Hyena project)
+  - [ ] Login 프로젝트 마무리 (Team Hyena project)
   - [ ] 관통사 2차 홈페이지 구현 최소 2일
   - [ ] Repo - Project 연결해보기
 
