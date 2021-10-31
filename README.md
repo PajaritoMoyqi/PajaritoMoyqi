@@ -57,10 +57,10 @@ etc :
 
 ***
 
-- 한 주 목표 ( 21. 10. 25 ~ 21. 10. 31 )
+- 한 주 목표 ( 21. 11. 1 ~ 21. 11. 7 )
   - [x] 1일 1커밋
   - [ ] PWA 강의
-  - [x] React + MaterialUI Project
+  - [ ] React + MaterialUI Project
   - [ ] Repo - Project 연결해보기
 
 - 방문자 ( 2021-08-20T17:00 ~  )
