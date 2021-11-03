@@ -12,6 +12,7 @@
 미니 프로젝트들
 <br>
 <a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-Login" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Mini&message=로그인 프로젝트&color=<COLOR>"/></a>
+<a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-AppBar" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Mini&message=앱 바 프로젝트&color=<COLOR>"/></a>
 
 - Skills
 
@@ -60,7 +61,7 @@ etc :
 - 한 주 목표 ( 21. 11. 1 ~ 21. 11. 7 )
   - [x] 1일 1커밋
   - [ ] PWA 강의
-  - [ ] React + MaterialUI Project
+  - [x] React + MaterialUI Project
   - [ ] Repo - Project 연결해보기
 
 - 방문자 ( 2021-08-20T17:00 ~  )
