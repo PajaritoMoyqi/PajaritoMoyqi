@@ -62,7 +62,7 @@ etc :
   - [x] 1일 1커밋
   - [ ] PWA 강의
   - [x] React + MaterialUI Project
-  - [ ] Repo - Project 연결해보기
+  - [x] Repo - Project 연결해보기
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
