@@ -14,6 +14,15 @@
 <a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-Login" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Mini&message=로그인 프로젝트&color=<COLOR>"/></a>
 <a href="https://pajaritomoyqi.github.io/TEAMHYENA-REACT-AppBar" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Mini&message=앱 바 프로젝트&color=<COLOR>"/></a>
 
+- Ongoing Projects
+
+Lol stats (with HQKim)
+
+- Pending Projects
+
+면접 시뮬레이터 수정
+한 해 배운 것들로 한 해 배운 것 보여주는 페이지 만들기
+
 - Skills
 
 Template : 
