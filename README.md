@@ -42,12 +42,6 @@ Back-End :
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <br>
-MOBILE APP :
-
-<br>
-DESKTOP APP :
-
-<br>
 Database : 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <br>
@@ -76,7 +70,7 @@ etc :
 - 한 주 목표 ( 21. 1. 3 ~ 22. 1. 9 )
   - [x] 1일 1커밋
   - [ ] PWA 강의
-  - [x] Vue Project 배포 ( ~ 22. 1. 7 )
+  - [x] Vue Project 배포 ( ~ 22. 1. 16 )
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
