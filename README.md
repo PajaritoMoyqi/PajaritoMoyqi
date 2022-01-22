@@ -16,10 +16,11 @@
 
 - Ongoing Projects
 
-Lol stats (with HQKim)
+Pajarito's Sentences
 
 - Pending Projects
 
+Lol stats (with HQKim)
 면접 시뮬레이터 수정
 
 - Skills
@@ -69,7 +70,7 @@ etc :
 
 - 한 주 목표 ( 21. 1. 17 ~ 22. 1. 23 )
   - [x] 1일 1커밋(매일)
-  - [ ] PWA 강의(매일)
+  - [x] PWA 구현(매일)
   - [x] 15ggLife alpha test 전 수정사항(매일)
 
 - 방문자 ( 2021-08-20T17:00 ~  )
