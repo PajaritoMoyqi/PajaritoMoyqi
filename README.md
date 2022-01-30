@@ -20,7 +20,7 @@ Pajarito's Sentences
 
 - Pending Projects
 
-Lol stats (with HQKim)
+Lol stats (with HQKim)<br>
 면접 시뮬레이터 수정
 
 - Skills
