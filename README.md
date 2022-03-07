@@ -70,7 +70,7 @@ etc :
 
 ***
 
-- 한 주 목표 ( 21. 2. 28 ~ 22. 3. 6 )
+- 한 주 목표 ( 21. 3. 7 ~ 22. 3. 13 )
   - [x] 1일 1커밋(매일)
   - [x] PWA 구현(매일)
   - [ ] 15ggLife alpha test api key issue solve
