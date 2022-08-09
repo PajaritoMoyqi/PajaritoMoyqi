@@ -70,11 +70,16 @@ etc :
 
 ***
 
-- 한 주 목표 ( 21. 4. 18 ~ 22. 4. 24 )
-  - [x] 1일 1커밋(매일)
-  - [ ] PWA 구현
-  - [ ] 문장의 맥락을 알 수 있게 하기
-  - [ ] 15ggLife
+- 한 주 목표 ( 21. 8. 8 ~ 22. 8. 14 )
+  - Django(do-it)
+  - SW Engineering
+
+- 더 공부할만한 것들
+  - TypeScript
+  - React Native
+  - D3.js(or another framework for data-visualization)
+  - Computer Architecture
+  - PWA
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
