@@ -71,8 +71,8 @@ etc :
 ***
 
 - 한 주 목표 ( 21. 8. 8 ~ 22. 8. 14 )
-  - Django(do-it)
-  - SW Engineering
+  - [] Django(do-it)
+  - [] SW Engineering
 
 - 더 공부할만한 것들
   - TypeScript
@@ -80,7 +80,8 @@ etc :
   - D3.js(or another framework for data-visualization)
   - Computer Architecture
   - PWA
-
+  - Jenkins
+  
 - 방문자 ( 2021-08-20T17:00 ~  )
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPajaritoMoyqi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
