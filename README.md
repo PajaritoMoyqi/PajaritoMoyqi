@@ -75,8 +75,8 @@ etc :
 ***
 
 - 한 주 목표 ( 21. 8. 8 ~ 22. 8. 14 )
-  - [] Django(do-it)
-  - [] SW Engineering
+  -[] Django(do-it)
+  -[] SW Engineering
 
 - 더 공부할만한 것들
   - TypeScript
