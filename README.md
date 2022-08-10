@@ -18,11 +18,16 @@
 
 - Ongoing Projects
 
+Django 학습
+
 - Pending Projects
+
+블로그 portfolio화
+
+- Someday... Projects
 
 Lol stats project<br>
 면접 시뮬레이터 수정<br>
-블로그 portfolio화
 
 - Skills
 
