@@ -18,12 +18,11 @@
 
 - Ongoing Projects
 
-Pajarito's Sentences
-
 - Pending Projects
 
 Lol stats project<br>
-면접 시뮬레이터 수정
+면접 시뮬레이터 수정<br>
+블로그 portfolio화
 
 - Skills
 
