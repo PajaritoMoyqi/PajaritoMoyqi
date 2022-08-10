@@ -86,6 +86,7 @@ etc :
   - PWA
   - Jenkins
   - Web Accessibility
+  - SEO
   
 - 방문자 ( 2021-08-20T17:00 ~  )
 
