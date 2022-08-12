@@ -28,6 +28,7 @@ Django 학습
 
 Lol stats project<br>
 면접 시뮬레이터 수정<br>
+npm 주석 추가(after SW Engineering)<br>
 
 - Skills
 
