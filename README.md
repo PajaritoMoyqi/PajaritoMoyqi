@@ -74,9 +74,15 @@ etc :
 
 ***
 
-- 단기간 목표 ( 21. 8. 8 ~ 22. 8. 16 )
-  - [ ] Django(do-it)
-  - [ ] SW Engineering
+- 단기 목표 ( 21. 8. 8 ~ 22. 8. 16 )
+  - [x] Django(do-it)
+  - [ ] SW Engineering done
+  - [ ] SQL Basic
+
+- 단장기 목표 ( ~ )
+  - [ ] Django(do-it) done
+  - [ ] SW Engineering 가상 설계문서 초안
+  - [ ] SQL Basic done
 
 - 더 공부할만한 것들
   - TypeScript
