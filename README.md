@@ -75,10 +75,9 @@ etc :
 
 ***
 
-- 단기 목표 ( 21. 8. 8 ~ 22. 8. 16 )
-  - [x] Django(do-it)
+- 단기 목표 ( 21. 8. 16 ~ 22. 8. 21 )
   - [ ] SW Engineering done
-  - [ ] SQL Basic
+  - [ ] SQL Basic done
 
 - 단장기 목표 ( ~ )
   - [ ] Django(do-it) done
