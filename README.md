@@ -79,7 +79,7 @@ etc :
   - [ ] SW Engineering done
   - [ ] SQL Basic done
 
-- 단장기 목표 ( ~ )
+- 단장기 목표 ( ~ 22. 8. 31 )
   - [ ] Django(do-it) done
   - [ ] SW Engineering 가상 설계문서 초안
   - [ ] SQL Basic done
