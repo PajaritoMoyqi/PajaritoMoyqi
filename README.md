@@ -18,7 +18,7 @@
 
 - Ongoing Projects
 
-Django 학습
+Django & SQL
 
 - Pending Projects
 
