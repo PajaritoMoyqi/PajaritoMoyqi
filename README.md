@@ -76,7 +76,7 @@ etc :
 ***
 
 - 단기 목표 ( 21. 8. 16 ~ 22. 8. 21 )
-  - [ ] SW Engineering done
+  - [x] SW Engineering done
   - [ ] SQL Basic done
 
 - 단장기 목표 ( ~ 22. 8. 31 )
