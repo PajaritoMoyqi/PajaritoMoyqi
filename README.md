@@ -92,7 +92,7 @@ etc :
 - 더 공부할만한 것들
   - TypeScript
   - React Native
-  - D3.js(or another framework for data-visualization)
+  - *MORE* D3.js(or another framework for data-visualization)
   - Computer Architecture
   - PWA
   - Jenkins
