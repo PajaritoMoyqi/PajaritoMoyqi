@@ -84,6 +84,11 @@ etc :
   - [ ] SW Engineering 가상 설계문서 초안
   - [ ] SQL Basic done
 
+- 장기 목표 ( ~ 22. 12. 31 )
+  - [ ] Project blog Renewal
+  - [ ] Project blog에 Writing Session 개설
+  - [ ] My Spanish website 개설
+
 - 더 공부할만한 것들
   - TypeScript
   - React Native
