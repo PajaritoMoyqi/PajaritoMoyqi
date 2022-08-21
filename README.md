@@ -84,6 +84,8 @@ etc :
   - [ ] Django(do-it) done
   - [ ] SQL intermediate done
   - [ ] Project blog main page Renewal
+  - [ ] SW Engineering 가상 설계문서 초안
+  - [ ] SW Engineering 가상 설계문서 검토요청
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Project blog main page Renewal
