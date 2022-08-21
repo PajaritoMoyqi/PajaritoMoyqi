@@ -75,17 +75,18 @@ etc :
 
 ***
 
-- 단기 목표 ( 21. 8. 16 ~ 22. 8. 21 )
-  - [x] SW Engineering done
-  - [x] SQL Basic done
-
-- 단장기 목표 ( ~ 22. 8. 31 )
-  - [ ] Django(do-it) done
+- 단기 목표 ( 21. 8. 22 ~ 22. 8. 31 )
+  - [ ] SQL intermediate ongoing
   - [ ] SW Engineering 가상 설계문서 초안
-  - [x] SQL Basic done
+  - [ ] Project blog main page Renewal start
+
+- 단장기 목표 ( ~ 22. 9. 30 )
+  - [ ] Django(do-it) done
+  - [ ] SQL intermediate done
+  - [ ] Project blog main page Renewal
 
 - 장기 목표 ( ~ 22. 12. 31 )
-  - [ ] Project blog Renewal
+  - [ ] Project blog main page Renewal
   - [ ] Project blog에 Writing Session 개설
   - [ ] My Spanish website 개설
 
