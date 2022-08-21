@@ -77,12 +77,12 @@ etc :
 
 - 단기 목표 ( 21. 8. 16 ~ 22. 8. 21 )
   - [x] SW Engineering done
-  - [ ] SQL Basic done
+  - [x] SQL Basic done
 
 - 단장기 목표 ( ~ 22. 8. 31 )
   - [ ] Django(do-it) done
   - [ ] SW Engineering 가상 설계문서 초안
-  - [ ] SQL Basic done
+  - [x] SQL Basic done
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Project blog Renewal
