@@ -18,17 +18,18 @@
 
 - Ongoing Projects
 
-  - Django & SQL
+  - Django & SQL basic review
+  - 블로그 portfolio화
 
 - Pending Projects
 
-  - 블로그 portfolio화
+  - SW Engineering 실습
+  - npm 주석 추가(after SW Engineering)
 
 - Someday... Projects
 
   - Lol stats project<br>
   - 면접 시뮬레이터 수정<br>
-  - npm 주석 추가(after SW Engineering)<br>
 
 - Skills
 
