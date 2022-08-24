@@ -79,7 +79,7 @@ etc :
 - 단기 목표 ( 21. 8. 22 ~ 22. 8. 31 )
   - [ ] SQL intermediate done
   - [ ] SW Engineering 가상 설계문서 start
-  - [ ] Project blog main page Renewal start
+  - [x] Project blog main page Renewal start
 
 - 단장기 목표 ( ~ 22. 9. 30 )
   - [ ] Django(do-it) done
