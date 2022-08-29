@@ -77,7 +77,7 @@ etc :
 ***
 
 - 단기 목표 ( 21. 8. 22 ~ 22. 8. 31 )
-  - [ ] SQL intermediate done
+  - [x] SQL intermediate done
   - [ ] SW Engineering 가상 설계문서 start
   - [x] Project blog main page Renewal start
 
