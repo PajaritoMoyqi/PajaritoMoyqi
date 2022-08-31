@@ -80,7 +80,7 @@ etc :
   - [x] SQL intermediate done
   - [ ] SW Engineering 가상 설계문서 start
   - [x] Project blog main page Renewal start
-  - [ ] Outsourcing work test done
+  - [x] Outsourcing work test done
 
 - 단장기 목표 ( ~ 22. 9. 30 )
   - [ ] Django(do-it) review done
