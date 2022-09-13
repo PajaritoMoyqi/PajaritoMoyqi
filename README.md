@@ -80,6 +80,7 @@ etc :
   - [ ] 모의 디자인 부트스트랩 적용
   - [ ] Django(do-it) restart
   - [ ] Outsourcing start
+  - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 9. 30 )
   - [ ] Django(do-it) review done
@@ -87,6 +88,7 @@ etc :
   - [ ] Project blog main page Renewal
   - [ ] SW Engineering 가상 설계문서 초안
   - [ ] SW Engineering 가상 설계문서 검토요청
+  - [ ] 주식 api 사용법 익히기
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Project blog main page Renewal
