@@ -77,9 +77,8 @@ etc :
 ***
 
 - 단기 목표 ( 22. 9. 13 - 22. 9. 16 )
-  - [ ] 모의 디자인 부트스트랩 적용
   - [ ] Django(do-it) restart
-  - [ ] Outsourcing start
+  - [x] Outsourcing start
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 9. 30 )
