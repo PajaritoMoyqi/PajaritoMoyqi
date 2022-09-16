@@ -77,7 +77,7 @@ etc :
 ***
 
 - 단기 목표 ( 22. 9. 13 - 22. 9. 16 )
-  - [ ] Django(do-it) restart
+  - [x] Django(do-it) restart
   - [x] Outsourcing start
   - [ ] 주식 api check
 
