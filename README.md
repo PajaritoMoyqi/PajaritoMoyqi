@@ -76,9 +76,11 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 9. 13 - 22. 9. 16 )
-  - [x] Django(do-it) restart
-  - [x] Outsourcing start
+- 단기 목표 ( 22. 9. 17 - 22. 9. 25 )
+  - [ ] Django(do-it) 15 review done
+  - [ ] Django(do-it) 16 review done
+  - [ ] Project Blog Main Design
+  - [ ] Outsourcing front-end start
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 9. 30 )
@@ -103,7 +105,7 @@ etc :
   - Jenkins
   - Web Accessibility
   - SEO
-  
+
 - 방문자 ( 2021-08-20T17:00 ~  )
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPajaritoMoyqi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
