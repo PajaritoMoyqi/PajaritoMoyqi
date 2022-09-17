@@ -77,7 +77,7 @@ etc :
 ***
 
 - 단기 목표 ( 22. 9. 17 - 22. 9. 25 )
-  - [ ] Django(do-it) 15 review done
+  - [x] Django(do-it) 15 review done
   - [ ] Django(do-it) 16 review done
   - [ ] Project Blog Main Design
   - [ ] Outsourcing front-end start
