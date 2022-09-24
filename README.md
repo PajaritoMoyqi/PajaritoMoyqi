@@ -78,9 +78,8 @@ etc :
 
 - 단기 목표 ( 22. 9. 17 - 22. 9. 25 )
   - [x] Django(do-it) 15 review done
-  - [ ] Django(do-it) 16 review done
-  - [ ] Project Blog Main Design
-  - [ ] Outsourcing front-end start
+  - [x] Project Blog Main Design
+  - [x] Outsourcing front-end start
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 9. 30 )
