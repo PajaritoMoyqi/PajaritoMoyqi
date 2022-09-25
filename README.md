@@ -76,19 +76,19 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 9. 17 - 22. 9. 25 )
-  - [x] Django(do-it) 15 review done
-  - [x] Project Blog Main Design
-  - [x] Outsourcing front-end start
+- 단기 목표 ( 22. 9. 25 - 22. 10. 2 )
+  - [ ] Project Blog Main Font
+  - [ ] Project Blog Main Banner select
+  - [ ] Project Blog Main Make
+  - [ ] Outsourcing front-end all popup pages (PC)
   - [ ] 주식 api check
 
-- 단장기 목표 ( ~ 22. 9. 30 )
+- 단장기 목표 ( ~ 22. 10. 31 )
   - [ ] Django(do-it) review done
-  - [x] SQL intermediate done
-  - [ ] Project blog main page Renewal
-  - [ ] SW Engineering 가상 설계문서 초안
-  - [ ] SW Engineering 가상 설계문서 검토요청
+  - [ ] Project blog main page Renewal done
+  - [ ] Project blog md-writting seesion done
   - [ ] 주식 api 사용법 익히기
+  - [ ] Project blog new domain select
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Project blog main page Renewal
