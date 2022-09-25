@@ -77,7 +77,7 @@ etc :
 ***
 
 - 단기 목표 ( 22. 9. 25 - 22. 10. 2 )
-  - [ ] Project Blog Main Font
+  - [x] Project Blog Main Font
   - [ ] Project Blog Main Banner select
   - [ ] Project Blog Main Make
   - [ ] Outsourcing front-end all popup pages (PC)
