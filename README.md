@@ -78,13 +78,17 @@ etc :
 
 - 단기 목표 ( 22. 9. 25 - 22. 10. 2 )
   - [x] Project Blog Main Font
+  - [ ] Project Blog Main Color Theme
   - [ ] Project Blog Main Banner select
-  - [ ] Project Blog Main Make
+  - [ ] Project Blog Main make - post preview when hover (PC)
+  - [ ] Project Blog Main make - self introduce when click (PC)
   - [ ] Outsourcing front-end all popup pages (PC)
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
+
   - [ ] Django(do-it) review done
+  - [ ] Project blog main page connect to server datas
   - [ ] Project blog main page Renewal done
   - [ ] Project blog md-writting seesion done
   - [ ] 주식 api 사용법 익히기
