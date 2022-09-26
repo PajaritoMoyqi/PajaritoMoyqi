@@ -78,7 +78,7 @@ etc :
 
 - 단기 목표 ( 22. 9. 25 - 22. 10. 2 )
   - [x] Project Blog Main Font
-  - [ ] Project Blog Main Color Theme
+  - [x] Project Blog Main Color Theme
   - [ ] Project Blog Main Banner select
   - [ ] Project Blog Main make - post preview when hover (PC)
   - [ ] Project Blog Main make - self introduce when click (PC)
