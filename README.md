@@ -80,8 +80,8 @@ etc :
   - [x] Project Blog Main Font
   - [x] Project Blog Main Color Theme
   - [ ] Project Blog Main Banner select
-  - [ ] Project Blog Main make - post preview when hover (PC)
-  - [ ] Project Blog Main make - self introduce when click (PC)
+  - [x] Project Blog Main make - post preview when hover (PC)
+  - [x] Project Blog Main make - self introduce when click (PC)
   - [ ] Project Blog new Domain buy
   - [ ] Outsourcing front-end all popup pages (PC)
   - [ ] 주식 api check
