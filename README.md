@@ -82,7 +82,7 @@ etc :
   - [ ] Project Blog Main Banner select
   - [x] Project Blog Main make - post preview when hover (PC)
   - [x] Project Blog Main make - self introduce when click (PC)
-  - [ ] Project Blog new Domain buy
+  - [x] Project Blog new Domain buy
   - [x] Outsourcing front-end all popup pages (PC)
   - [ ] 주식 api check
 
