@@ -83,7 +83,7 @@ etc :
   - [x] Project Blog Main make - post preview when hover (PC)
   - [x] Project Blog Main make - self introduce when click (PC)
   - [ ] Project Blog new Domain buy
-  - [ ] Outsourcing front-end all popup pages (PC)
+  - [x] Outsourcing front-end all popup pages (PC)
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
