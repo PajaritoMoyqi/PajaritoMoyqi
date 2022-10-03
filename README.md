@@ -76,14 +76,17 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 9. 25 - 22. 10. 2 )
-  - [x] Project Blog Main Font
-  - [x] Project Blog Main Color Theme
+- 단기 목표 ( 22. 10. 4 - 22. 10. 10 )
   - [ ] Project Blog Main Banner select
-  - [x] Project Blog Main make - post preview when hover (PC)
-  - [x] Project Blog Main make - self introduce when click (PC)
-  - [x] Project Blog new Domain buy
-  - [x] Outsourcing front-end all popup pages (PC)
+  - [ ] Project Blog Main page responsive done
+  - [ ] Project Blog Project page design done
+  - [ ] Project Blog node-md inspection
+  - [ ] Outsourcing introduce page done
+  - [ ] Outsourcing server buy
+  - [ ] Outsourcing responsive start
+  - [ ] Outsourcing char limit add
+  - [ ] right arrow logic done
+  - [ ] big form check(id, method, action etc)
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
@@ -94,6 +97,7 @@ etc :
   - [ ] Project blog md-writting seesion done
   - [ ] 주식 api 사용법 익히기
   - [ ] Project blog new domain select
+  - [ ] Outsourcing done
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Project blog main page Renewal
