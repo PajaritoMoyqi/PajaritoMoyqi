@@ -85,7 +85,7 @@ etc :
   - [ ] Outsourcing server buy
   - [ ] Outsourcing responsive start
   - [ ] Outsourcing char limit add
-  - [ ] right arrow logic done
+  - [x] right arrow logic done
   - [ ] big form check(id, method, action etc)
   - [ ] 주식 api check
 
