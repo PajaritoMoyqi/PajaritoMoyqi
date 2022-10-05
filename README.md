@@ -84,9 +84,9 @@ etc :
   - [ ] Outsourcing introduce page done
   - [ ] Outsourcing server buy
   - [ ] Outsourcing responsive start
-  - [ ] Outsourcing char limit add
-  - [x] right arrow logic done
-  - [ ] big form check(id, method, action etc)
+  - [x] Outsourcing char limit add(frontend)
+  - [x] Outsourcing right arrow logic done
+  - [x] Outsourcing big form check(id, method, action etc)
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
