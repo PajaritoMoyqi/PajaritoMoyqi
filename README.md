@@ -81,7 +81,7 @@ etc :
   - [ ] Project Blog Main page responsive done
   - [ ] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
-  - [ ] Outsourcing introduce page done
+  - [x] Outsourcing introduce page done
   - [ ] Outsourcing server buy
   - [ ] Outsourcing responsive start
   - [x] Outsourcing char limit add(frontend)
