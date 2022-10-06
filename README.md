@@ -83,7 +83,7 @@ etc :
   - [ ] Project Blog node-md inspection
   - [x] Outsourcing introduce page done
   - [ ] Outsourcing server buy
-  - [ ] Outsourcing responsive start
+  - [x] Outsourcing responsive start
   - [x] Outsourcing char limit add(frontend)
   - [x] Outsourcing right arrow logic done
   - [x] Outsourcing big form check(id, method, action etc)
