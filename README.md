@@ -96,7 +96,7 @@ etc :
   - [ ] Project blog main page Renewal done
   - [ ] Project blog md-writting seesion done
   - [ ] 주식 api 사용법 익히기
-  - [ ] Project blog new domain select
+  - [x] Project blog new domain select
   - [ ] Outsourcing done
 
 - 장기 목표 ( ~ 22. 12. 31 )
