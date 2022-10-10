@@ -76,17 +76,15 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 10. 4 - 22. 10. 10 )
+- 단기 목표 ( 22. 10. 10 - 22. 10. 14 )
   - [ ] Project Blog Main Banner select
   - [ ] Project Blog Main page responsive done
   - [ ] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
-  - [x] Outsourcing introduce page done
-  - [ ] Outsourcing server buy
-  - [x] Outsourcing responsive start
-  - [x] Outsourcing char limit add(frontend)
-  - [x] Outsourcing right arrow logic done
-  - [x] Outsourcing big form check(id, method, action etc)
+  - [ ] Outsourcing responsive done (- monday)
+  - [ ] Outsourcing server buy (- wednesday)
+  - [ ] Outsourcing server setting done (- thursday)
+  - [ ] Outsourcing server running (- friday)
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
