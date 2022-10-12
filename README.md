@@ -81,7 +81,7 @@ etc :
   - [ ] Project Blog Main page responsive done
   - [ ] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
-  - [ ] Outsourcing responsive done (- monday)
+  - [x] Outsourcing responsive done (- monday)
   - [ ] Outsourcing server buy (- wednesday)
   - [ ] Outsourcing server setting done (- thursday)
   - [ ] Outsourcing server running (- friday)
