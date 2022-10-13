@@ -82,7 +82,7 @@ etc :
   - [ ] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
   - [x] Outsourcing responsive done (- monday)
-  - [ ] Outsourcing server buy (- wednesday)
+  - [x] Outsourcing server buy (- wednesday)
   - [ ] Outsourcing server setting done (- thursday)
   - [ ] Outsourcing server running (- friday)
   - [ ] 주식 api check
