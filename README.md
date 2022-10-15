@@ -76,14 +76,15 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 10. 15 - 22. 10. 16 )
+- 단기 목표 ( 22. 10. 15 - 22. 10. 23 )
   - [ ] Project Blog Main Banner select
   - [ ] Project Blog Main page responsive done
   - [ ] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
-  - [ ] Django personal review
-  - [ ] Outsourcing post update done
-  - [ ] Outsourcing comment update done
+  - [x] Django personal review - weekend
+  - [ ] Django lecture review
+  - [ ] Outsourcing post update done - weekend
+  - [ ] Outsourcing comment update done - weekend
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
