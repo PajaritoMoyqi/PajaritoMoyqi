@@ -84,7 +84,7 @@ etc :
   - [x] Outsourcing responsive done (- monday)
   - [x] Outsourcing server buy (- wednesday)
   - [x] Outsourcing server setting done (- thursday)
-  - [ ] Outsourcing server running (- friday)
+  - [x] Outsourcing server running (- friday)
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
