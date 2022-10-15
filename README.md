@@ -76,20 +76,18 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 10. 10 - 22. 10. 14 )
+- 단기 목표 ( 22. 10. 15 - 22. 10. 16 )
   - [ ] Project Blog Main Banner select
   - [ ] Project Blog Main page responsive done
   - [ ] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
-  - [x] Outsourcing responsive done (- monday)
-  - [x] Outsourcing server buy (- wednesday)
-  - [x] Outsourcing server setting done (- thursday)
-  - [x] Outsourcing server running (- friday)
+  - [ ] Django personal review
+  - [ ] Outsourcing post update done
+  - [ ] Outsourcing comment update done
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
 
-  - [ ] Django(do-it) review done
   - [ ] Project blog main page connect to server datas
   - [ ] Project blog main page Renewal done
   - [ ] Project blog md-writting seesion done
@@ -98,6 +96,7 @@ etc :
   - [ ] Outsourcing done
 
 - 장기 목표 ( ~ 22. 12. 31 )
+  - [ ] Django(do-it) review done
   - [ ] Project blog main page Renewal
   - [ ] Project blog에 Writing Session 개설
   - [ ] My Spanish website 개설
