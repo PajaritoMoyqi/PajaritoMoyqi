@@ -84,7 +84,7 @@ etc :
   - [x] Django personal review - weekend
   - [ ] Django lecture review
   - [ ] Outsourcing post update done - weekend
-  - [ ] Outsourcing post delete done - weekend
+  - [x] Outsourcing post delete done - weekend
   - [x] Outsourcing comment update done - weekend
   - [x] Outsourcing comment delete done - weekend
   - [ ] 주식 api check
@@ -93,7 +93,7 @@ etc :
 
   - [ ] Project blog main page connect to server datas
   - [ ] Project blog main page Renewal done
-  - [ ] Project blog md-writting seesion done
+  - [ ] Project blog md-writting session done
   - [ ] 주식 api 사용법 익히기
   - [x] Project blog new domain select
   - [ ] Outsourcing done
