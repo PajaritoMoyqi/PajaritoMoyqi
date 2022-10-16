@@ -84,7 +84,9 @@ etc :
   - [x] Django personal review - weekend
   - [ ] Django lecture review
   - [ ] Outsourcing post update done - weekend
-  - [ ] Outsourcing comment update done - weekend
+  - [ ] Outsourcing post delete done - weekend
+  - [x] Outsourcing comment update done - weekend
+  - [ ] Outsourcing comment delete done - weekend
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
