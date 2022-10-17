@@ -82,7 +82,7 @@ etc :
   - [ ] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
   - [x] Django personal review - weekend
-  - [ ] Django lecture review
+  - [x] Django lecture review
   - [x] Outsourcing post update done - weekend
   - [x] Outsourcing post delete done - weekend
   - [x] Outsourcing comment update done - weekend
