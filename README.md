@@ -107,6 +107,7 @@ etc :
 
 - 더 공부할만한 것들
   - TypeScript
+  - Another node.js Server-side Framework(Next.js, Nest.js, etc)
   - React Native
   - *MORE* D3.js(or another framework for data-visualization)
   - Computer Architecture
