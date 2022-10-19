@@ -87,6 +87,7 @@ etc :
   - [x] Outsourcing post delete done - weekend
   - [x] Outsourcing comment update done - weekend
   - [x] Outsourcing comment delete done - weekend
+  - [x] Outsourcing first feedback done
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 10. 31 )
