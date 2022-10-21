@@ -78,7 +78,7 @@ etc :
 
 - 단기 목표 ( 22. 10. 15 - 22. 10. 23 )
   - [x] Project Blog Main Banner select
-  - [ ] Project Blog Main page responsive done
+  - [x] Project Blog Main page responsive done
   - [x] Project Blog Project page design done
   - [ ] Project Blog node-md inspection
   - [x] Django personal review - weekend
