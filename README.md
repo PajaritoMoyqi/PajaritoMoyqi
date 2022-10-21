@@ -80,7 +80,7 @@ etc :
   - [x] Project Blog Main Banner select
   - [x] Project Blog Main page responsive done
   - [x] Project Blog Project page design done
-  - [ ] Project Blog node-md inspection
+  - [x] Project Blog node-md inspection
   - [x] Django personal review - weekend
   - [x] Django lecture review
   - [x] Outsourcing post update done - weekend
