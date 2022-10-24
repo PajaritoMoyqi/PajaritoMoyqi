@@ -76,28 +76,23 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 10. 15 - 22. 10. 23 )
-  - [x] Project Blog Main Banner select
-  - [x] Project Blog Main page responsive done
-  - [x] Project Blog Project page design done
-  - [x] Project Blog node-md inspection
-  - [x] Django personal review - weekend
-  - [x] Django lecture review
-  - [x] Outsourcing post update done - weekend
-  - [x] Outsourcing post delete done - weekend
-  - [x] Outsourcing comment update done - weekend
-  - [x] Outsourcing comment delete done - weekend
-  - [x] Outsourcing first feedback done
+- 단기 목표 ( 22. 10. 24 - 22. 10. 31 )
+  - [ ] data structure of my blog posts done
+  - [ ] marked module investigation done
+  - [ ] marked apply done
+  - [ ] data connect to post logic done
+  - [ ] data connect to works logic done
+  - [ ] data connect to main page logic done
+  - [ ] Outsourcing second feedback done
   - [ ] 주식 api check
 
-- 단장기 목표 ( ~ 22. 10. 31 )
+- 단장기 목표 ( ~ 22. 11. 30 )
 
-  - [ ] Project blog main page connect to server datas
-  - [ ] Project blog main page Renewal done
-  - [ ] Project blog md-writting session done
+  - [ ] Project blog domain connect
+  - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
   - [x] Project blog new domain select
-  - [ ] Outsourcing done
+  - [ ] Outsourcing server-side done
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Django(do-it) review done
