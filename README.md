@@ -84,6 +84,7 @@ etc :
   - [ ] data connect to works logic done
   - [ ] data connect to main page logic done
   - [ ] Outsourcing second feedback done
+  - [ ] Outsourcing domain add - Thursday
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
@@ -110,6 +111,7 @@ etc :
   - Jenkins
   - Web Accessibility
   - SEO
+  - WEB 3.0
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
