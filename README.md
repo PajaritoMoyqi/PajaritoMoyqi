@@ -79,7 +79,7 @@ etc :
 - 단기 목표 ( 22. 10. 24 - 22. 10. 31 )
   - [ ] data structure of my blog posts done
   - [x] marked module investigation done
-  - [ ] marked apply done
+  - [x] marked apply done
   - [ ] post page design done
   - [ ] post page make
   - [ ] post page responsive done
