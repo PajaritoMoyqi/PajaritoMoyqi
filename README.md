@@ -81,7 +81,7 @@ etc :
   - [x] marked module investigation done
   - [x] marked apply done
   - [x] post page design done
-  - [ ] post page make
+  - [x] post page make
   - [ ] post page responsive done
   - [ ] data connect to posts logic done
   - [ ] data connect to works logic done
