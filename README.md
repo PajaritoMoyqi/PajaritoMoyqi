@@ -82,7 +82,7 @@ etc :
   - [x] marked apply done
   - [x] post page design done
   - [x] post page make
-  - [ ] post page responsive done
+  - [x] post page responsive done
   - [ ] data connect to posts logic done
   - [ ] data connect to works logic done
   - [ ] data connect to main page logic done
