@@ -83,7 +83,7 @@ etc :
   - [ ] data connect to post logic done
   - [ ] data connect to works logic done
   - [ ] data connect to main page logic done
-  - [ ] Outsourcing second feedback done
+  - [x] Outsourcing second feedback done
   - [ ] Outsourcing domain add - Thursday
   - [ ] 주식 api check
 
