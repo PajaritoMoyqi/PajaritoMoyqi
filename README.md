@@ -78,9 +78,12 @@ etc :
 
 - 단기 목표 ( 22. 10. 24 - 22. 10. 31 )
   - [ ] data structure of my blog posts done
-  - [ ] marked module investigation done
+  - [x] marked module investigation done
   - [ ] marked apply done
-  - [ ] data connect to post logic done
+  - [ ] post page design done
+  - [ ] post page make
+  - [ ] post page responsive done
+  - [ ] data connect to posts logic done
   - [ ] data connect to works logic done
   - [ ] data connect to main page logic done
   - [x] Outsourcing second feedback done
