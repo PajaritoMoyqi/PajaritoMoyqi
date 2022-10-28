@@ -89,7 +89,7 @@ etc :
   - [x] Outsourcing second feedback done
   - [x] Outsourcing third feedback done
   - [ ] Outsourcing fourth feedback done
-  - [ ] Outsourcing domain add - Thursday
+  - [x] Outsourcing domain add - Thursday
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
