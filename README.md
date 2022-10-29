@@ -77,7 +77,7 @@ etc :
 ***
 
 - 단기 목표 ( 22. 10. 24 - 22. 10. 31 )
-  - [ ] data structure of my blog posts done
+  - [x] data structure of my blog posts done
   - [x] marked module investigation done
   - [x] marked apply done
   - [x] post page design done
