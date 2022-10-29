@@ -85,7 +85,7 @@ etc :
   - [x] post page responsive done
   - [x] data connect to posts list logic done
   - [x] data connect to works list logic done
-  - [ ] data connect to main page logic done
+  - [x] data connect to main page logic done
   - [x] Outsourcing second feedback done
   - [x] Outsourcing third feedback done
   - [x] Outsourcing fourth feedback done
