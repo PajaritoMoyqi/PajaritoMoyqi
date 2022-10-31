@@ -83,7 +83,7 @@ etc :
   - [ ] SSH key copy 2
   - [ ] Blog meta tag to post detail page
   - [ ] Blog main nav hambergur error fix
-  - [ ] Blog main page post hover
+  - [x] Blog main page post hover
   - [ ] Outsourcing meta tag
   - [ ] Outsourcing security 1
   - [ ] Outsourcing security 2
