@@ -76,20 +76,18 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 10. 24 - 22. 10. 31 )
-  - [x] data structure of my blog posts done
-  - [x] marked module investigation done
-  - [x] marked apply done
-  - [x] post page design done
-  - [x] post page make
-  - [x] post page responsive done
-  - [x] data connect to posts list logic done
-  - [x] data connect to works list logic done
-  - [x] data connect to main page logic done
-  - [x] Outsourcing second feedback done
-  - [x] Outsourcing third feedback done
-  - [x] Outsourcing fourth feedback done
-  - [x] Outsourcing domain add - Thursday
+- 단기 목표 ( 22. 10. 31 - 22. 11. 6 )
+  - [ ] Blog main page list toggle (ajax)
+  - [ ] Blog works page list toggle (ajax)
+  - [ ] SSH key copy 1
+  - [ ] SSH key copy 2
+  - [ ] Meta tag to post detail page
+  - [ ] Outsourcing meta tag
+  - [ ] Outsourcing security 1
+  - [ ] Outsourcing security 2
+  - [ ] Outsourcing security 3
+  - [ ] Outsourcing security 4
+  - [ ] Django advanced by myself at least once
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
