@@ -86,7 +86,7 @@ etc :
   - [x] Blog main page post hover
   - [ ] Outsourcing meta tag
   - [ ] Outsourcing security 1
-  - [ ] Outsourcing security 2
+  - [x] Outsourcing security 2
   - [ ] Outsourcing security 3
   - [ ] Outsourcing security 4
   - [ ] Django advanced by myself at least once
