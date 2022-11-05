@@ -78,18 +78,16 @@ etc :
 
 - 단기 목표 ( 22. 10. 31 - 22. 11. 6 )
   - [ ] Blog main page list toggle (ajax)
-  - [ ] Blog works page list toggle (ajax)
+  - [x] Blog works page list toggle
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] Blog meta tag to post detail page
   - [ ] Blog main nav hambergur error fix
   - [x] Blog main page post hover
-  - [ ] Outsourcing meta tag
   - [ ] Outsourcing security 1
   - [x] Outsourcing security 2
   - [x] Outsourcing security 3
   - [x] Outsourcing security 4
-  - [ ] Django advanced by myself at least once
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
@@ -99,6 +97,7 @@ etc :
   - [ ] 주식 api 사용법 익히기
   - [x] Project blog new domain select
   - [ ] Outsourcing server-side done
+  - [ ] Outsourcing all done
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Django(do-it) review done
