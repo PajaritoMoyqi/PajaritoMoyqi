@@ -88,7 +88,7 @@ etc :
   - [ ] Outsourcing security 1
   - [x] Outsourcing security 2
   - [x] Outsourcing security 3
-  - [ ] Outsourcing security 4
+  - [x] Outsourcing security 4
   - [ ] Django advanced by myself at least once
   - [ ] 주식 api check
 
