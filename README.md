@@ -77,7 +77,7 @@ etc :
 ***
 
 - 단기 목표 ( 22. 10. 31 - 22. 11. 6 )
-  - [ ] Blog main page list toggle (ajax)
+  - [x] Blog main page list toggle (ajax)
   - [x] Blog works page list toggle
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
