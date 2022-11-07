@@ -82,6 +82,7 @@ etc :
   - [ ] Blog meta tag to post detail page
   - [ ] Blog main nav hamburger error fix
   - [ ] Blog post new tag logic
+  - [ ] Django advanced done (at least once)
   - [ ] Outsourcing security done
   - [ ] 주식 api check
 
