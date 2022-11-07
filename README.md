@@ -76,18 +76,13 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 10. 31 - 22. 11. 6 )
-  - [x] Blog main page list toggle (ajax)
-  - [x] Blog works page list toggle
+- 단기 목표 ( 22. 11. 7 - 22. 11. 16 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] Blog meta tag to post detail page
-  - [ ] Blog main nav hambergur error fix
-  - [x] Blog main page post hover
-  - [ ] Outsourcing security 1
-  - [x] Outsourcing security 2
-  - [x] Outsourcing security 3
-  - [x] Outsourcing security 4
+  - [ ] Blog main nav hamburger error fix
+  - [ ] Blog post new tag logic
+  - [ ] Outsourcing security done
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
