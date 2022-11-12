@@ -84,6 +84,7 @@ etc :
   - [ ] Blog post new tag logic
   - [ ] Django advanced done (at least once)
   - [x] Outsourcing security done
+  - [x] Outsourcing intro page done
   - [ ] Outsourcing last feedback done
   - [ ] 주식 api check
 
