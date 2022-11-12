@@ -83,7 +83,8 @@ etc :
   - [ ] Blog main nav hamburger error fix
   - [ ] Blog post new tag logic
   - [ ] Django advanced done (at least once)
-  - [ ] Outsourcing security done
+  - [x] Outsourcing security done
+  - [ ] Outsourcing last feedback done
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
