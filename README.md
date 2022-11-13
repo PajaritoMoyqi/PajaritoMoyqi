@@ -85,7 +85,10 @@ etc :
   - [ ] Django advanced done (at least once)
   - [x] Outsourcing security done
   - [x] Outsourcing intro page done
+  - [x] Outsourcing xBox to main
+  - [x] Outsourcing update image id change
   - [ ] Outsourcing last feedback done
+  - [ ] Send final test hwp file
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
