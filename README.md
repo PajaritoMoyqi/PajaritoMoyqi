@@ -89,7 +89,7 @@ etc :
   - [x] Outsourcing update image id change
   - [x] Outsourcing author name added
   - [ ] Outsourcing last feedback done
-  - [ ] Send final test hwp file
+  - [x] Send final test hwp file
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
