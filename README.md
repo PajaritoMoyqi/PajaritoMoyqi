@@ -98,8 +98,8 @@ etc :
   - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
   - [x] Project blog new domain select
-  - [ ] Outsourcing server-side done
-  - [ ] Outsourcing all done
+  - [x] Outsourcing server-side done
+  - [x] Outsourcing all done
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Django(do-it) review done
