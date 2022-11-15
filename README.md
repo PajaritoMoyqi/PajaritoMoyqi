@@ -88,7 +88,7 @@ etc :
   - [x] Outsourcing xBox to main
   - [x] Outsourcing update image id change
   - [x] Outsourcing author name added
-  - [ ] Outsourcing last feedback done
+  - [x] Outsourcing last feedback done
   - [x] Send final test hwp file
   - [ ] 주식 api check
 
