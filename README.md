@@ -76,20 +76,13 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 11. 7 - 22. 11. 16 )
+- 단기 목표 ( 22. 11. 17 - 22. 11. 27 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] Blog meta tag to post detail page
   - [ ] Blog main nav hamburger error fix
   - [ ] Blog post new tag logic
   - [ ] Django advanced done (at least once)
-  - [x] Outsourcing security done
-  - [x] Outsourcing intro page done
-  - [x] Outsourcing xBox to main
-  - [x] Outsourcing update image id change
-  - [x] Outsourcing author name added
-  - [x] Outsourcing last feedback done
-  - [x] Send final test hwp file
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
@@ -104,7 +97,7 @@ etc :
 - 장기 목표 ( ~ 22. 12. 31 )
   - [ ] Django(do-it) review done
   - [ ] Project blog main page Renewal
-  - [ ] Project blog에 Writing Session 개설
+  - [x] Project blog에 Writing Session 개설
   - [ ] My Spanish website 개설
 
 - 더 공부할만한 것들
