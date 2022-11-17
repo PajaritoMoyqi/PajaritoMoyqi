@@ -80,7 +80,8 @@ etc :
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] Blog meta tag to post detail page
-  - [ ] Blog main nav hamburger error fix
+  - [x] Blog main nav hamburger error fix
+  - [ ] Blog svg collection
   - [ ] Blog post new tag logic
   - [ ] Django advanced done (at least once)
   - [ ] 주식 api check
