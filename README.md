@@ -79,11 +79,13 @@ etc :
 - 단기 목표 ( 22. 11. 17 - 22. 11. 27 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
-  - [ ] Blog meta tag to post detail page
+  - [x] Blog meta tag to post detail page
   - [x] Blog main nav hamburger error fix
   - [x] Blog post new tag logic
   - [ ] Blog svg collection
   - [ ] Blog pic collect and works setting done
+  - [ ] Blog main page meta tag done
+  - [ ] Blog main page introduce speech bubble done
   - [x] Outsourcing completly done
   - [ ] Django advanced done (at least once)
   - [ ] 주식 api check
