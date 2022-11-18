@@ -81,8 +81,10 @@ etc :
   - [ ] SSH key copy 2
   - [ ] Blog meta tag to post detail page
   - [x] Blog main nav hamburger error fix
+  - [x] Blog post new tag logic
   - [ ] Blog svg collection
-  - [ ] Blog post new tag logic
+  - [ ] Blog pic collect and works setting done
+  - [ ] Outsourcing completly done
   - [ ] Django advanced done (at least once)
   - [ ] 주식 api check
 
