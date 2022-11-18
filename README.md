@@ -84,8 +84,8 @@ etc :
   - [x] Blog post new tag logic
   - [ ] Blog svg collection
   - [ ] Blog pic collect and works setting done
-  - [ ] Blog main page meta tag done
-  - [ ] Blog main page introduce speech bubble done
+  - [x] Blog main page meta tag done
+  - [x] Blog main page introduce speech bubble done
   - [x] Outsourcing completly done
   - [ ] Django advanced done (at least once)
   - [ ] 주식 api check
