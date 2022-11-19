@@ -86,8 +86,21 @@ etc :
   - [x] Blog pic collect and works setting done
   - [x] Blog main page meta tag done
   - [x] Blog main page introduce speech bubble done
+  - [x] Blog new domain connect
   - [x] Outsourcing completly done
   - [ ] Django advanced done (at least once)
+  - [x] Django do-it 16-2 review
+  - [x] Django do-it 16-3 review
+  - [ ] Django do-it 17-1 review
+  - [ ] Django do-it 17-2 review
+  - [ ] Django do-it 17-3 review
+  - [ ] Django do-it 17-4 review
+  - [ ] Django do-it 17-5 review
+  - [ ] Django do-it 18-1 review
+  - [ ] Django do-it 18-2 review
+  - [ ] Django do-it 18-3 review
+  - [ ] Django do-it 19-1 review
+  - [ ] Django do-it 19-2 review
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
