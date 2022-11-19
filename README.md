@@ -88,9 +88,10 @@ etc :
   - [x] Blog main page introduce speech bubble done
   - [x] Blog new domain connect
   - [x] Outsourcing completly done
-  - [ ] Django advanced done (at least once)
   - [x] Django do-it 16 review
   - [x] Django do-it 17 review
+  - [x] Django do-it 18 review
+  - [ ] Django summary
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
