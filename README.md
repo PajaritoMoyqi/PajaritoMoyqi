@@ -82,8 +82,8 @@ etc :
   - [x] Blog meta tag to post detail page
   - [x] Blog main nav hamburger error fix
   - [x] Blog post new tag logic
-  - [ ] Blog svg collection
-  - [ ] Blog pic collect and works setting done
+  - [x] Blog svg collection
+  - [x] Blog pic collect and works setting done
   - [x] Blog main page meta tag done
   - [x] Blog main page introduce speech bubble done
   - [x] Outsourcing completly done
