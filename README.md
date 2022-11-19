@@ -91,6 +91,7 @@ etc :
   - [x] Django do-it 16 review
   - [x] Django do-it 17 review
   - [x] Django do-it 18 review
+  - [x] Django do-it 19 review
   - [ ] Django summary
   - [ ] 주식 api check
 
