@@ -93,7 +93,7 @@ etc :
   - [x] Django do-it 18 review
   - [x] Django do-it 19 review
   - [x] Django summary - basic setting
-  - [ ] Django summary - user CRUD
+  - [x] Django summary - user CRUD
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
