@@ -99,7 +99,7 @@ etc :
   - [x] Django summary - template filters
   - [x] Django summary - QuerySet API
   - [x] Django summary - Field lookups
-  - [x] Django summary - decoratorss
+  - [x] Django summary - decorators
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
@@ -112,7 +112,7 @@ etc :
   - [x] Outsourcing all done
 
 - 장기 목표 ( ~ 22. 12. 31 )
-  - [ ] Django(do-it) review done
+  - [x] Django(do-it) review done
   - [ ] Project blog main page Renewal
   - [x] Project blog에 Writing Session 개설
   - [ ] My Spanish website 개설
