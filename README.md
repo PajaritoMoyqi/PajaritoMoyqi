@@ -95,6 +95,11 @@ etc :
   - [x] Django summary - basic setting
   - [x] Django summary - user CRUD
   - [x] Django summary - article CRUD
+  - [x] Django summary - additional things
+  - [x] Django summary - template filters
+  - [x] Django summary - QuerySet API
+  - [x] Django summary - Field lookups
+  - [x] Django summary - decoratorss
   - [ ] 주식 api check
 
 - 단장기 목표 ( ~ 22. 11. 30 )
