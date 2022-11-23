@@ -100,6 +100,7 @@ etc :
   - [x] Django summary - QuerySet API
   - [x] Django summary - Field lookups
   - [x] Django summary - decorators
+  - [x] Django summary - widgets
   - [x] Django do-it whole contents check
   - [ ] 주식 api check
 
