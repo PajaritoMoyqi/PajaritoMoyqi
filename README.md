@@ -76,42 +76,17 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 11. 17 - 22. 11. 27 )
+- 단기 목표 ( 22. 11. 28 - 22. 12. 4 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
-  - [x] Blog meta tag to post detail page
-  - [x] Blog main nav hamburger error fix
-  - [x] Blog post new tag logic
-  - [x] Blog svg collection
-  - [x] Blog pic collect and works setting done
-  - [x] Blog main page meta tag done
-  - [x] Blog main page introduce speech bubble done
-  - [x] Blog new domain connect
-  - [x] Outsourcing completly done
-  - [x] Django do-it 16 review
-  - [x] Django do-it 17 review
-  - [x] Django do-it 18 review
-  - [x] Django do-it 19 review
-  - [x] Django summary - basic setting
-  - [x] Django summary - user CRUD
-  - [x] Django summary - article CRUD
-  - [x] Django summary - additional things
-  - [x] Django summary - template filters
-  - [x] Django summary - QuerySet API
-  - [x] Django summary - Field lookups
-  - [x] Django summary - decorators
-  - [x] Django summary - widgets
-  - [x] Django do-it whole contents check
   - [ ] 주식 api check
+  - [ ] Nginx Summary - directives
+  - [x] 회복 ongoing
 
-- 단장기 목표 ( ~ 22. 11. 30 )
-
-  - [x] Project blog domain connect
+- 단장기 목표 ( ~ 22. 12. 31 )
+  - [ ] Spanish website 고민
   - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
-  - [x] Project blog new domain select
-  - [x] Outsourcing server-side done
-  - [x] Outsourcing all done
 
 - 장기 목표 ( ~ 22. 12. 31 )
   - [x] Django(do-it) review done
