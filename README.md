@@ -81,7 +81,7 @@ etc :
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [x] Nginx Summary - directives
-  - [ ] Nginx Summary - Proxy
+  - [x] Nginx Summary - Proxy
   - [x] 회복 ongoing
 
 - 단장기 목표 ( ~ 22. 12. 31 )
