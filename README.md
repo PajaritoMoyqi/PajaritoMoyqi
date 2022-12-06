@@ -76,14 +76,12 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 11. 28 - 22. 12. 4 )
+- 단기 목표 ( 22. 12. 5 - 22. 12. 11 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [x] Nginx Summary - directives
-  - [x] Nginx Summary - Proxy
-  - [x] 회복 ongoing
-
+  - [ ] 잘 쉬기
+  
 - 단장기 목표 ( ~ 22. 12. 31 )
   - [ ] Spanish website 고민
   - [ ] Project blog renewal done
