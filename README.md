@@ -76,12 +76,12 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 12. 5 - 22. 12. 11 )
+- 단기 목표 ( 22. 12. 12 - 22. 12. 31 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] 잘 쉬기
-  
+
 - 단장기 목표 ( ~ 22. 12. 31 )
   - [ ] Spanish website 고민
   - [ ] Project blog renewal done
