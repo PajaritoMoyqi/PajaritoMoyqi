@@ -18,18 +18,21 @@
 
 - Ongoing Projects
 
-  - Django & SQL basic review
-  - 블로그 portfolio화
+  - React Summary<br>
+  - My Blog 마무리<br>
 
 - Pending Projects
 
-  - SW Engineering 실습
-  - npm 주석 추가(after SW Engineering)
+  - D3.js Summary<br>
 
 - Someday... Projects
 
+  - Vue.js Summary<br>
+  - Express Summary<br>
   - Lol stats project<br>
   - 면접 시뮬레이터 수정<br>
+  - SW Engineering 실습<br>
+  - npm 주석 추가(after SW Engineering)<br>
 
 - Skills
 
