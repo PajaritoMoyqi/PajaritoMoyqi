@@ -23,12 +23,11 @@
 
 - Pending Projects
 
-  - D3.js Summary<br>
+  - 
 
 - Someday... Projects
 
-  - Vue.js Summary<br>
-  - Express Summary<br>
+  - D3.js Summary<br>
   - Lol stats project<br>
   - 면접 시뮬레이터 수정<br>
   - SW Engineering 실습<br>
