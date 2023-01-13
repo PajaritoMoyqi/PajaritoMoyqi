@@ -18,7 +18,6 @@
 
 - Ongoing Projects
 
-  - React Summary<br>
   - My Blog 마무리<br>
 
 - Pending Projects
@@ -83,7 +82,7 @@ etc :
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] 잘 쉬기
-  - [ ] React Summary Essay done
+  - [x] React Summary Essay done
 
 - 단장기 목표 ( ~ 23. 2. 9 )
   - [ ] Spanish website 고민
