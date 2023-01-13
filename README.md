@@ -78,21 +78,20 @@ etc :
 
 ***
 
-- 단기 목표 ( 22. 12. 12 - 22. 12. 31 )
+- 단기 목표 ( 23. 1. 1 - 23. 1. 18 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] 잘 쉬기
+  - [ ] React Summary Essay done
 
-- 단장기 목표 ( ~ 22. 12. 31 )
+- 단장기 목표 ( ~ 23. 2. 9 )
   - [ ] Spanish website 고민
   - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
 
-- 장기 목표 ( ~ 22. 12. 31 )
-  - [x] Django(do-it) review done
+- 장기 목표 ( ~ 23. 4. )
   - [ ] Project blog main page Renewal
-  - [x] Project blog에 Writing Session 개설
   - [ ] My Spanish website 개설
 
 - 더 공부할만한 것들
