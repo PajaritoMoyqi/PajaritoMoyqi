@@ -81,7 +81,7 @@ etc :
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [ ] 잘 쉬기
+  - [x] 잘 쉬기
   - [x] React Summary Essay done
 
 - 단장기 목표 ( ~ 23. 2. 9 )
