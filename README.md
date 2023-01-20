@@ -77,14 +77,17 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 1. 1 - 23. 1. 18 )
+- 단기 목표 ( 23. 1. 19 - 23. 2. 12 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [x] 잘 쉬기
-  - [x] React Summary Essay done
+  - [ ] 잘 쉬기
+  - [ ] Nginx Cookbook 완독
+  - [ ] You don't know JS 1-4
+  - [ ] 라즈베리파이 구매
+  - [ ] Blog Renewal done
 
-- 단장기 목표 ( ~ 23. 2. 9 )
+- 단장기 목표 ( ~ 23. 2. 28 )
   - [ ] Spanish website 고민
   - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
