@@ -83,7 +83,8 @@ etc :
   - [ ] 주식 api check
   - [ ] 잘 쉬기
   - [ ] Nginx Cookbook 완독
-  - [ ] You don't know JS 1-4
+  - [x] You don't know JS 1-4
+  - [ ] You don't know JS 1-5
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
 
