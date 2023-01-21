@@ -87,7 +87,8 @@ etc :
   - [x] Nginx Cookbook 9
   - [ ] Nginx Cookbook 10
   - [x] You don't know JS 1-4
-  - [ ] You don't know JS 1-5
+  - [x] You don't know JS 1-5
+  - [ ] You don't know JS 1-6
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
 
