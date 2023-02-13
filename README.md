@@ -77,17 +77,11 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 1. 19 - 23. 2. 12 )
+- 단기 목표 ( 23. 2. 13 - 23. 3. 1 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [x] 잘 쉬기
-  - [x] Nginx Cookbook 7
-  - [x] Nginx Cookbook 8
-  - [x] Nginx Cookbook 9
   - [ ] Nginx Cookbook 10
-  - [x] You don't know JS 1-4
-  - [x] You don't know JS 1-5
   - [ ] You don't know JS 1-6
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
