@@ -81,7 +81,7 @@ etc :
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [ ] 잘 쉬기
+  - [x] 잘 쉬기
   - [x] Nginx Cookbook 7
   - [x] Nginx Cookbook 8
   - [x] Nginx Cookbook 9
