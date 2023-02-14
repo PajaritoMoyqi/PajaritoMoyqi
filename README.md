@@ -89,7 +89,7 @@ etc :
   - [ ] Nginx Cookbook 16
   - [ ] Nginx Cookbook 17
   - [ ] Nginx Cookbook 18
-  - [ ] You don't know JS 1-6
+  - [x] You don't know JS 1-6
   - [ ] You don't know JS 2-1
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
