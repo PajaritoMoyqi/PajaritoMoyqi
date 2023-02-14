@@ -81,8 +81,16 @@ etc :
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [ ] Nginx Cookbook 10
+  - [x] Nginx Cookbook 10
+  - [ ] Nginx Cookbook 12
+  - [ ] Nginx Cookbook 13
+  - [ ] Nginx Cookbook 14
+  - [ ] Nginx Cookbook 15
+  - [ ] Nginx Cookbook 16
+  - [ ] Nginx Cookbook 17
+  - [ ] Nginx Cookbook 18
   - [ ] You don't know JS 1-6
+  - [ ] You don't know JS 2-1
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
 
