@@ -82,7 +82,7 @@ etc :
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [x] Nginx Cookbook 10
-  - [ ] Nginx Cookbook 12
+  - [x] Nginx Cookbook 12
   - [ ] Nginx Cookbook 13
   - [ ] Nginx Cookbook 14
   - [ ] Nginx Cookbook 15
