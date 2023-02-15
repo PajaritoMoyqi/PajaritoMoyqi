@@ -91,7 +91,7 @@ etc :
   - [ ] Nginx Cookbook 18
   - [x] You don't know JS 1-6
   - [x] You don't know JS 2-1
-  - [ ] You don't know JS 2-2
+  - [x] You don't know JS 2-2
   - [ ] You don't know JS 2-3
   - [ ] You don't know JS 2-4
   - [ ] 라즈베리파이 구매
