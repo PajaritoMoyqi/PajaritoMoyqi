@@ -90,7 +90,7 @@ etc :
   - [ ] Nginx Cookbook 17
   - [ ] Nginx Cookbook 18
   - [x] You don't know JS 1-6
-  - [ ] You don't know JS 2-1
+  - [x] You don't know JS 2-1
   - [ ] You don't know JS 2-2
   - [ ] You don't know JS 2-3
   - [ ] You don't know JS 2-4
