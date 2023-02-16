@@ -84,7 +84,7 @@ etc :
   - [x] Nginx Cookbook 10
   - [x] Nginx Cookbook 12
   - [x] Nginx Cookbook 13
-  - [ ] Nginx Cookbook 14
+  - [x] Nginx Cookbook 14
   - [ ] Nginx Cookbook 15
   - [ ] Nginx Cookbook 16
   - [ ] Nginx Cookbook 17
@@ -94,6 +94,8 @@ etc :
   - [x] You don't know JS 2-2
   - [x] You don't know JS 2-3
   - [ ] You don't know JS 2-4
+  - [ ] You don't know JS 2-5
+  - [ ] 책 네 권 체크(TypeScript, IT용어, 라즈베리파이, 아키텍쳐)
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
 
