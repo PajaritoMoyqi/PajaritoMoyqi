@@ -88,7 +88,7 @@ etc :
   - [x] Nginx Cookbook 15
   - [x] Nginx Cookbook 16
   - [x] Nginx Cookbook 17
-  - [ ] Nginx Cookbook 18
+  - [x] Nginx Cookbook 18
   - [x] You don't know JS 1-6
   - [x] You don't know JS 2-1
   - [x] You don't know JS 2-2
