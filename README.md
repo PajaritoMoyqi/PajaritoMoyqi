@@ -85,7 +85,7 @@ etc :
   - [x] Nginx Cookbook 12
   - [x] Nginx Cookbook 13
   - [x] Nginx Cookbook 14
-  - [ ] Nginx Cookbook 15
+  - [x] Nginx Cookbook 15
   - [ ] Nginx Cookbook 16
   - [ ] Nginx Cookbook 17
   - [ ] Nginx Cookbook 18
