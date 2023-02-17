@@ -94,7 +94,7 @@ etc :
   - [x] You don't know JS 2-2
   - [x] You don't know JS 2-3
   - [x] You don't know JS 2-4
-  - [ ] You don't know JS 2-5
+  - [x] You don't know JS 2-5
   - [x] 책 네 권 체크(TypeScript, IT용어, 라즈베리파이, 아키텍쳐)
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
