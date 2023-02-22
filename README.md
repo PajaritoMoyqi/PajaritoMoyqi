@@ -19,10 +19,16 @@
 - Ongoing Projects
 
   - My Blog 마무리<br>
+  - TypeScript<br>
 
 - Pending Projects
 
-  - 
+  - GO<br>
+  - Web 3.0<br>
+  - Compiler 만들기<br>
+  - Architecture<br>
+  - Rasberry Pi<br>
+  - Web Accessibility<br>
 
 - Someday... Projects
 
@@ -31,6 +37,7 @@
   - 면접 시뮬레이터 수정<br>
   - SW Engineering 실습<br>
   - npm 주석 추가(after SW Engineering)<br>
+  - 객체지향<br>
 
 - Skills
 
@@ -113,6 +120,7 @@ etc :
 
 - 더 공부할만한 것들
   - TypeScript
+  - GO
   - Another node.js Server-side Framework(Next.js, Nest.js, etc)
   - React Native
   - *MORE* D3.js(or another framework for data-visualization)
