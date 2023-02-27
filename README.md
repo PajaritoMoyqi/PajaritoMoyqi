@@ -20,15 +20,17 @@
 
   - My Blog 마무리<br>
   - TypeScript<br>
+  - Architecture<br>
 
 - Pending Projects
 
+  - 프로그래밍과 글쓰기<br>
   - GO<br>
   - Web 3.0<br>
   - Compiler 만들기<br>
-  - Architecture<br>
   - Rasberry Pi<br>
   - Web Accessibility<br>
+  - commit message convention<br>
 
 - Someday... Projects
 
@@ -84,44 +86,33 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 2. 13 - 23. 3. 1 )
+- 단기 목표 ( 23. 2. 27 - 23. 3. 31 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [x] Nginx Cookbook 10
-  - [x] Nginx Cookbook 12
-  - [x] Nginx Cookbook 13
-  - [x] Nginx Cookbook 14
-  - [x] Nginx Cookbook 15
-  - [x] Nginx Cookbook 16
-  - [x] Nginx Cookbook 17
-  - [x] Nginx Cookbook 18
-  - [x] You don't know JS 1-6
-  - [x] You don't know JS 2-1
-  - [x] You don't know JS 2-2
-  - [x] You don't know JS 2-3
-  - [x] You don't know JS 2-4
-  - [x] You don't know JS 2-5
-  - [x] TypeScript chapter 1
-  - [x] TypeScript Appendix 1
-  - [x] TypeScript chapter 2
-  - [x] RasberryPi&Architecture chapter 1
-  - [x] RasberryPi&Architecture chapter 2
-  - [x] RasberryPi&Architecture chapter 3
-  - [x] 책 네 권 체크(TypeScript, IT용어, 라즈베리파이, 아키텍쳐)
   - [ ] 라즈베리파이 구매
-  - [ ] Blog Renewal done
+  - [ ] Blog Renewal - 글들 리뷰잉 (Django)
+  - [ ] Blog Renewal - 글들 리뷰잉 (Nginx)
+  - [ ] Blog Renewal - 글들 리뷰잉 (Culture)
+  - [ ] Blog Renewal - 글들 리뷰잉 (React)
+  - [ ] Blog Renewal - 글들 리뷰잉 (Javascript)
+  - [ ] Blog Renewal - Scroll bug fix
+  - [ ] Blog Renewal - js, css 파일 minify
+  - [ ] Blog Renewal - 조교과정 image 교체
+  - [ ] Blog Renewal - 프로젝트 스토리
 
-- 단장기 목표 ( ~ 23. 2. 28 )
+- 단장기 목표 ( ~ 23. 4. 30 )
   - [ ] Spanish website 고민
   - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
 
-- 장기 목표 ( ~ 23. 4. )
+- 장기 목표 ( ~ 23. 6. )
   - [ ] Project blog main page Renewal
-  - [ ] My Spanish website 개설
+  - [ ] 주식 현재가 app
+  - [ ] My Spanish website
 
 - 더 공부할만한 것들
+  - 프로그래밍과 글쓰기
   - TypeScript
   - GO
   - Another node.js Server-side Framework(Next.js, Nest.js, etc)
