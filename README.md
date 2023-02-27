@@ -91,7 +91,7 @@ etc :
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] 라즈베리파이 구매
-  - [ ] Blog Renewal - 글들 리뷰잉 (Django)
+  - [x] Blog Renewal - 글들 리뷰잉 (Django)
   - [ ] Blog Renewal - 글들 리뷰잉 (Nginx)
   - [ ] Blog Renewal - 글들 리뷰잉 (Culture)
   - [ ] Blog Renewal - 글들 리뷰잉 (React)
