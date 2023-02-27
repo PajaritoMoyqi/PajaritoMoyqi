@@ -107,7 +107,7 @@ etc :
   - [x] TypeScript chapter 2
   - [x] RasberryPi&Architecture chapter 1
   - [x] RasberryPi&Architecture chapter 2
-  - [ ] RasberryPi&Architecture chapter 3
+  - [x] RasberryPi&Architecture chapter 3
   - [x] 책 네 권 체크(TypeScript, IT용어, 라즈베리파이, 아키텍쳐)
   - [ ] 라즈베리파이 구매
   - [ ] Blog Renewal done
