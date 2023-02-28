@@ -96,7 +96,7 @@ etc :
   - [ ] Blog Renewal - 글들 리뷰잉 (Culture)
   - [ ] Blog Renewal - 글들 리뷰잉 (React)
   - [ ] Blog Renewal - 글들 리뷰잉 (Javascript)
-  - [ ] Blog Renewal - Scroll bug fix
+  - [x] Blog Renewal - Scroll bug fix
   - [ ] Blog Renewal - js, css 파일 minify
   - [ ] Blog Renewal - 조교과정 image 교체
   - [ ] Blog Renewal - 프로젝트 스토리
