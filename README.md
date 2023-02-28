@@ -95,7 +95,7 @@ etc :
   - [ ] Blog Renewal - 글들 리뷰잉 (Nginx)
   - [ ] Blog Renewal - 글들 리뷰잉 (Culture)
   - [ ] Blog Renewal - 글들 리뷰잉 (React)
-  - [ ] Blog Renewal - 글들 리뷰잉 (Javascript)
+  - [x] Blog Renewal - 글들 리뷰잉 (Javascript)
   - [x] Blog Renewal - Scroll bug fix
   - [ ] Blog Renewal - js, css 파일 minify
   - [x] Blog Renewal - 조교과정 image 교체
