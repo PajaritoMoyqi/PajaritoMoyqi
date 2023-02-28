@@ -92,7 +92,7 @@ etc :
   - [ ] 주식 api check
   - [ ] 라즈베리파이 구매
   - [x] Blog Renewal - 글들 리뷰잉 (Django)
-  - [ ] Blog Renewal - 글들 리뷰잉 (Nginx)
+  - [x] Blog Renewal - 글들 리뷰잉 (Nginx)
   - [x] Blog Renewal - 글들 리뷰잉 (Culture)
   - [ ] Blog Renewal - 글들 리뷰잉 (React)
   - [x] Blog Renewal - 글들 리뷰잉 (Javascript)
