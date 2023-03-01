@@ -94,7 +94,7 @@ etc :
   - [x] Blog Renewal - 글들 리뷰잉 (Django)
   - [x] Blog Renewal - 글들 리뷰잉 (Nginx)
   - [x] Blog Renewal - 글들 리뷰잉 (Culture)
-  - [ ] Blog Renewal - 글들 리뷰잉 (React)
+  - [x] Blog Renewal - 글들 리뷰잉 (React)
   - [x] Blog Renewal - 글들 리뷰잉 (Javascript)
   - [x] Blog Renewal - Scroll bug fix
   - [ ] Blog Renewal - js, css 파일 minify
