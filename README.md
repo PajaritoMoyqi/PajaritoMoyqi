@@ -19,12 +19,12 @@
 - Ongoing Projects
 
   - My Blog 마무리<br>
-  - TypeScript<br>
   - Architecture<br>
 
 - Pending Projects
 
   - 프로그래밍과 글쓰기<br>
+  - TypeScript<br>
   - GO<br>
   - Web 3.0<br>
   - Compiler 만들기<br>
@@ -99,7 +99,7 @@ etc :
   - [x] Blog Renewal - Scroll bug fix
   - [ ] Blog Renewal - js, css 파일 minify
   - [x] Blog Renewal - 조교과정 image 교체
-  - [ ] Blog Renewal - 프로젝트 스토리
+  - [x] Blog Renewal - 프로젝트 스토리
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [ ] Spanish website 고민
