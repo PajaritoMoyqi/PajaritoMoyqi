@@ -100,6 +100,7 @@ etc :
   - [ ] Blog Renewal - js, css 파일 minify
   - [x] Blog Renewal - 조교과정 image 교체
   - [x] Blog Renewal - 프로젝트 스토리
+  - [ ] github repository name change & git remote url change
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [ ] Spanish website 고민
