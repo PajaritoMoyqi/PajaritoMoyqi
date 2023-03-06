@@ -103,7 +103,7 @@ etc :
   - [ ] Blog Renewal - build logic (mn)
   - [ ] Blog Renewal - build logic (pt)
   - [ ] Blog Renewal - build logic (pts)
-  - [ ] Blog Renewal - build logic (wk)
+  - [x] Blog Renewal - build logic (wk)
   - [ ] Blog Renewal - build automatization
   - [x] Blog Renewal - 조교과정 image 교체
   - [x] Blog Renewal - 프로젝트 스토리
