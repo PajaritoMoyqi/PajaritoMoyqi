@@ -100,17 +100,18 @@ etc :
   - [ ] Blog Renewal - js, css 파일 minify
   - [x] Blog Renewal - 조교과정 image 교체
   - [x] Blog Renewal - 프로젝트 스토리
+  - [ ] Blog Renewal - font size 조정
   - [ ] github repository name change & git remote url change
 
 - 단장기 목표 ( ~ 23. 4. 30 )
-  - [ ] Spanish website 고민
+  - [ ] My Spanish blog 고민
   - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
 
 - 장기 목표 ( ~ 23. 6. )
-  - [ ] Project blog main page Renewal
+  - [ ] Project blog Renewal done
   - [ ] 주식 현재가 app
-  - [ ] My Spanish website
+  - [ ] My Spanish blog
 
 - 더 공부할만한 것들
   - 프로그래밍과 글쓰기
