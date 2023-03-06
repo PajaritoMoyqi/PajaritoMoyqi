@@ -97,7 +97,7 @@ etc :
   - [x] Blog Renewal - 글들 리뷰잉 (React)
   - [x] Blog Renewal - 글들 리뷰잉 (Javascript)
   - [x] Blog Renewal - Scroll bug fix
-  - [ ] Blog Renewal - build logic (ac)
+  - [x] Blog Renewal - build logic (ac)
   - [x] Blog Renewal - build logic (sp)
   - [x] Blog Renewal - build logic (lc)
   - [ ] Blog Renewal - build logic (mn)
