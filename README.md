@@ -99,7 +99,7 @@ etc :
   - [x] Blog Renewal - Scroll bug fix
   - [ ] Blog Renewal - build logic (ac)
   - [x] Blog Renewal - build logic (sp)
-  - [ ] Blog Renewal - build logic (lc)
+  - [x] Blog Renewal - build logic (lc)
   - [ ] Blog Renewal - build logic (mn)
   - [ ] Blog Renewal - build logic (pt)
   - [ ] Blog Renewal - build logic (pts)
