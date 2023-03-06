@@ -97,7 +97,14 @@ etc :
   - [x] Blog Renewal - 글들 리뷰잉 (React)
   - [x] Blog Renewal - 글들 리뷰잉 (Javascript)
   - [x] Blog Renewal - Scroll bug fix
-  - [ ] Blog Renewal - js, css 파일 minify
+  - [ ] Blog Renewal - build logic (ac)
+  - [ ] Blog Renewal - build logic (sp)
+  - [ ] Blog Renewal - build logic (lc)
+  - [ ] Blog Renewal - build logic (mn)
+  - [ ] Blog Renewal - build logic (pt)
+  - [ ] Blog Renewal - build logic (pts)
+  - [ ] Blog Renewal - build logic (wk)
+  - [ ] Blog Renewal - build automatization
   - [x] Blog Renewal - 조교과정 image 교체
   - [x] Blog Renewal - 프로젝트 스토리
   - [ ] Blog Renewal - font size 조정
