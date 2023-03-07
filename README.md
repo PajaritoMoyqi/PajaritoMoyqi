@@ -101,8 +101,8 @@ etc :
   - [x] Blog Renewal - build logic (sp)
   - [x] Blog Renewal - build logic (lc)
   - [x] Blog Renewal - build logic (mn)
-  - [ ] Blog Renewal - build logic (pt)
-  - [ ] Blog Renewal - build logic (pts)
+  - [x] Blog Renewal - build logic (pt)
+  - [x] Blog Renewal - build logic (pts)
   - [x] Blog Renewal - build logic (wk)
   - [ ] Blog Renewal - build automatization
   - [x] Blog Renewal - 조교과정 image 교체
