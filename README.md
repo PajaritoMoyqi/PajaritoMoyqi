@@ -104,7 +104,8 @@ etc :
   - [x] Blog Renewal - build logic (pt)
   - [x] Blog Renewal - build logic (pts)
   - [x] Blog Renewal - build logic (wk)
-  - [ ] Blog Renewal - build automatization
+  - [x] Blog Renewal - build automatization
+  - [ ] Blog Renewal - build automatization check
   - [x] Blog Renewal - 조교과정 image 교체
   - [x] Blog Renewal - 프로젝트 스토리
   - [ ] Blog Renewal - font size 조정
