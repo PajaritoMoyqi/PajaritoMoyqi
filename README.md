@@ -108,7 +108,7 @@ etc :
   - [x] Blog Renewal - build automation check
   - [x] Blog Renewal - 조교과정 image 교체
   - [x] Blog Renewal - 프로젝트 스토리
-  - [ ] Blog Renewal - font size 조정
+  - [x] Blog Renewal - font size 조정
   - [ ] github repository name change & git remote url change
 
 - 단장기 목표 ( ~ 23. 4. 30 )
