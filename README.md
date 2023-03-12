@@ -112,7 +112,7 @@ etc :
   - [ ] github repository name change & git remote url change
 
 - 단장기 목표 ( ~ 23. 4. 30 )
-  - [ ] My Spanish blog 고민
+  - [x] My Spanish blog 고민
   - [ ] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
 
