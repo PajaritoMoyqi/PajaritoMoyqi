@@ -86,30 +86,26 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 2. 27 - 23. 3. 31 )
+- 단기 목표 ( 23. 3. 22 - 23. 4. 20 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] 라즈베리파이 구매
-  - [x] Blog Renewal - 글들 리뷰잉 (Django)
-  - [x] Blog Renewal - 글들 리뷰잉 (Nginx)
-  - [x] Blog Renewal - 글들 리뷰잉 (Culture)
-  - [x] Blog Renewal - 글들 리뷰잉 (React)
-  - [x] Blog Renewal - 글들 리뷰잉 (Javascript)
-  - [x] Blog Renewal - Scroll bug fix
-  - [x] Blog Renewal - build logic (ac)
-  - [x] Blog Renewal - build logic (sp)
-  - [x] Blog Renewal - build logic (lc)
-  - [x] Blog Renewal - build logic (mn)
-  - [x] Blog Renewal - build logic (pt)
-  - [x] Blog Renewal - build logic (pts)
-  - [x] Blog Renewal - build logic (wk)
-  - [x] Blog Renewal - build automation
-  - [x] Blog Renewal - build automation check
-  - [x] Blog Renewal - 조교과정 image 교체
-  - [x] Blog Renewal - 프로젝트 스토리
-  - [x] Blog Renewal - font size 조정
   - [ ] github repository name change & git remote url change
+  - [ ] Architecture 1 - 6/7/8 (Computer Structure Basic)
+  - [ ] Architecture 2 - 5 (Computer Structure Advanced)
+  - [ ] Architecture 3 - 4 (Computer Structure Deep Dive)
+  - [ ] Architecture 1 - 9, 2 - 6 (OS Basic Start, I/O and Network Advanced)
+  - [ ] Architecture 1 - 10/11, 2 - 7/8, 3 - 5/6 (OS Basic ongoing, Data Structure and Programming Advanced, Programming and NVM Deep Dive)
+  - [ ] Architecture 3 - 7 (Network Deep Dive)
+  - [ ] Architecture 1 - 12/13 (OS Basic ongoing)
+  - [ ] Architecture 2 - 9/10 (WEB and Applications Advanced)
+  - [ ] Architecture 1 - 14/15 (OS Basic)
+  - [ ] Architecture 3 - 8 (OS Deep Dive)
+  - [ ] Architecture 2 - 11/12 (Algorithm and Async Advanced)
+  - [ ] Architecture 2 - 13 (Computer Security Advanced)
+  - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
+  - [ ] Architecture 2 - 15 (How to be a good programmer)
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [x] My Spanish blog 고민
