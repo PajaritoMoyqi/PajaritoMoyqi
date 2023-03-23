@@ -27,6 +27,7 @@
   - TypeScript<br>
   - GO<br>
   - Web 3.0<br>
+  - Computing system 만들기<br>
   - Compiler 만들기<br>
   - Rasberry Pi<br>
   - Web Accessibility<br>
@@ -91,9 +92,8 @@ etc :
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] 라즈베리파이 구매
-  - [ ] github repository name change & git remote url change
-  - [ ] Architecture 1 - 6/7/8 (Computer Structure Basic)
-  - [ ] Architecture 2 - 5 (Computer Structure Advanced)
+  - [x] Architecture 1 - 6/7/8 (Computer Structure Basic)
+  - [x] Architecture 2 - 5 (Computer Structure Advanced)
   - [ ] Architecture 3 - 4 (Computer Structure Deep Dive)
   - [ ] Architecture 1 - 9, 2 - 6 (OS Basic Start, I/O and Network Advanced)
   - [ ] Architecture 1 - 10/11, 2 - 7/8, 3 - 5/6 (OS Basic ongoing, Data Structure and Programming Advanced, Programming and NVM Deep Dive)
@@ -106,6 +106,8 @@ etc :
   - [ ] Architecture 2 - 13 (Computer Security Advanced)
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
+  - [ ] github repository name change & git remote url change
+  - [ ] reference format modify
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [x] My Spanish blog 고민
