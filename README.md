@@ -108,6 +108,13 @@ etc :
   - [ ] Architecture 2 - 15 (How to be a good programmer)
   - [ ] github repository name change & git remote url change
   - [ ] reference format modify
+  - [x] first issue
+  - [x] more than 1% of issue
+  - [x] improve Blog git flow
+  - [x] Make Projects and Issues flow for Blog repo
+  - [x] Blog Issues labeling
+  - [ ] Make Projects and Issues flow for Daily Inspiration repo
+  - [ ] Make Projects and Issues flow for Writings repo
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [x] My Spanish blog 고민
@@ -118,6 +125,8 @@ etc :
   - [ ] Project blog Renewal done
   - [ ] 주식 현재가 app
   - [ ] My Spanish blog
+  - [ ] first comment
+  - [ ] more than 1% of comment
 
 - 더 공부할만한 것들
   - 프로그래밍과 글쓰기
