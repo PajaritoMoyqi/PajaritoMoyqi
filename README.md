@@ -113,8 +113,9 @@ etc :
   - [x] improve Blog git flow
   - [x] Make Projects and Issues flow for Blog repo
   - [x] Blog Issues labeling
-  - [ ] Make Projects and Issues flow for Daily Inspiration repo
-  - [ ] Make Projects and Issues flow for Writings repo
+  - [x] Add checkboxes to all accepted issues
+  - [x] Make Projects and Issues flow for Writings repo
+  - [x] Make Projects and Issues flow for List Website repo
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [x] My Spanish blog 고민
