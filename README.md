@@ -53,6 +53,7 @@ Front-End :
 Back-End :
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <br>
 Server : 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
@@ -94,7 +95,7 @@ etc :
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
   - [ ] github repository name change & git remote url change
-  - [ ] reference format modify
+  - [x] reference format modify
   - [x] first issue
   - [x] more than 1% of issue
   - [x] improve Blog git flow
@@ -106,11 +107,11 @@ etc :
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [x] My Spanish blog 고민
-  - [ ] Project blog renewal done
+  - [x] Project blog renewal done
   - [ ] 주식 api 사용법 익히기
 
 - 장기 목표 ( ~ 23. 6. )
-  - [ ] Project blog Renewal done
+  - [x] Project blog Renewal done
   - [ ] 주식 현재가 app
   - [ ] My Spanish blog
   - [ ] first comment
