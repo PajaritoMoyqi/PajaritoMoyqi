@@ -75,7 +75,7 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 3. 22 - 23. 4. 20 )
+- 단기 목표 ( 23. 4. 8 - 23. 4. 30 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
@@ -94,16 +94,30 @@ etc :
   - [ ] Architecture 2 - 13 (Computer Security Advanced)
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
+  - [ ] Architecture - ADC DAC 1 lecture
+  - [ ] Architecture - ADC DAC 2 lecture
+  - [ ] Architecture - ADC DAC 3 lecture
+  - [ ] Architecture - Digital IC Design 1 lecture (2-2)
+  - [ ] Architecture - Digital IC Design 2 lecture (3-1, 3-2)
+  - [ ] Architecture - Digital IC Design 3 lecture (3-3, 3-4)
+  - [ ] Architecture - Digital IC Design 4 lecture (4-1)
+  - [ ] Architecture - Digital IC Design 5 lecture (5-1)
+  - [ ] Architecture - Digital IC Design 6 lecture (5-2)
+  - [ ] Architecture - Digital IC Design 7 lecture (5-3, 5-4)
+  - [ ] Architecture - Digital IC Design 8 lecture (5-5)
+  - [ ] Architecture - Digital IC Design 9 lecture (6-1)
+  - [ ] Architecture - Digital IC Design 10 lecture (6-2)
+  - [ ] Architecture - Digital IC Design 11 lecture (6-3)
+  - [ ] Architecture - Digital IC Design 12 lecture (6-4)
+  - [ ] Architecture - Digital IC Design 13 lecture (7)
+  - [ ] Architecture - Digital IC Design 14 lecture (8-1, 8-2)
+  - [ ] Architecture - Digital IC Design 15 lecture (9-1, 9-2)
+  - [ ] Architecture - Digital IC Design 16 lecture (9-3, 9-4)
+  - [ ] Architecture - Digital IC Design 17 lecture (10-1, 10-2, 11-1)
+  - [ ] Architecture - Digital IC Design 18 lecture (11-2, 11-3)
+  - [ ] Architecture - Digital IC Design 19 lecture (12-1, 12-2)
+  - [ ] Architecture - Digital IC Design 20 lecture (12-3, 12-4)
   - [ ] github repository name change & git remote url change
-  - [x] reference format modify
-  - [x] first issue
-  - [x] more than 1% of issue
-  - [x] improve Blog git flow
-  - [x] Make Projects and Issues flow for Blog repo
-  - [x] Blog Issues labeling
-  - [x] Add checkboxes to all accepted issues
-  - [x] Make Projects and Issues flow for Writings repo
-  - [x] Make Projects and Issues flow for List Website repo
 
 - 단장기 목표 ( ~ 23. 4. 30 )
   - [x] My Spanish blog 고민
