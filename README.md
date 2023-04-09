@@ -75,7 +75,7 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 4. 8 - 23. 4. 30 )
+- 단기 목표 ( 23. 4. 8 - 23. 5. 5 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
@@ -94,10 +94,8 @@ etc :
   - [ ] Architecture 2 - 13 (Computer Security Advanced)
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
-  - [ ] Architecture - ADC DAC 1 lecture
-  - [ ] Architecture - ADC DAC 2 lecture
-  - [ ] Architecture - ADC DAC 3 lecture
-  - [ ] Architecture - Digital IC Design 1 lecture (2-2)
+  - [x] Architecture - Digital Audio Basic lecture (1, 2, 3, 4)
+  - [x] Architecture - Digital IC Design 1 lecture (2-2)
   - [ ] Architecture - Digital IC Design 2 lecture (3-1, 3-2)
   - [ ] Architecture - Digital IC Design 3 lecture (3-3, 3-4)
   - [ ] Architecture - Digital IC Design 4 lecture (4-1)
