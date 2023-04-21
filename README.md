@@ -24,6 +24,7 @@
   - Computing system 만들기<br>
   - Compiler 만들기<br>
   - Rasberry Pi<br>
+  - Github Actions(workflow)<br>
   - Web Accessibility<br>
   - commit message convention<br>
 
@@ -97,6 +98,7 @@ etc :
   - [x] Architecture - Digital Audio Basic lecture (1-4)
   - [x] Architecture - Digital IC Design lecture (1-12)
   - [ ] Architecture - Digital Logic Circuit lecture (1-12)
+  - [ ] 반도체 전공면접 강의 필수파트 (1-4)
   - [ ] github repository name change & git remote url change
 
 - 단장기 목표 ( ~ 23. 4. 30 )
