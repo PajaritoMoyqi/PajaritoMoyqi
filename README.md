@@ -98,7 +98,7 @@ etc :
   - [ ] Architecture 4 - 필수부분 완독
   - [x] Architecture - Digital Audio Basic lecture (1-4)
   - [x] Architecture - Digital IC Design lecture (1-12)
-  - [ ] Architecture - Digital Logic Circuit lecture (1-8)
+  - [x] Architecture - Digital Logic Circuit lecture (1-8)
   - [x] 반도체 전공면접 강의 필수파트 (1-4)
   - [ ] github repository name change & git remote url change
 
