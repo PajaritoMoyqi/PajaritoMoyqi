@@ -16,6 +16,7 @@
 
 - Pending Projects
 
+  - Spanish & Writing blog<br>
   - 프로그래밍과 글쓰기<br>
   - TypeScript<br>
   - GO<br>
@@ -75,7 +76,7 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 4. 8 - 23. 5. 5 )
+- 단기 목표 ( 23. 5. 1 - 23. 5. 31 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
@@ -94,24 +95,22 @@ etc :
   - [ ] Architecture 2 - 13 (Computer Security Advanced)
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
-  - [x] Architecture 4 - 필수부분 완독
-  - [x] Architecture - Digital Audio Basic lecture (1-4)
-  - [x] Architecture - Digital IC Design lecture (1-12)
-  - [x] Architecture - Digital Logic Circuit lecture (1-8)
-  - [x] 반도체 전공면접 강의 필수파트 (1-4)
   - [ ] github repository name change & git remote url change
 
-- 단장기 목표 ( ~ 23. 4. 30 )
-  - [x] My Spanish blog 고민
-  - [x] Project blog renewal done
-  - [ ] 주식 api 사용법 익히기
+- 단장기 목표 ( ~ 23. 6. )
+  - [ ] Circuit 정리 완료
 
-- 장기 목표 ( ~ 23. 6. )
-  - [x] Project blog Renewal done
-  - [ ] 주식 현재가 app
-  - [ ] My Spanish blog
-  - [ ] first comment
-  - [ ] more than 1% of comment
+- 장기 목표 ( ~ 23. 12. )
+  - [ ] Circuit 정리 완료
+  - [ ] Hardware 정리 완료
+  - [ ] System 정리 완료
+  - [ ] Computing System 제작 실습 완료
+  - [ ] Compiler 제작 실습 완료
+  - [ ] OS 제작 실습 완료
+  - [ ] first code review
+  - [ ] more than 1% (code reviews)
+  - [ ] more than 10% (code reviews)
+  - [ ] more than 10% (pull requests)
 
 - 더 공부할만한 것들
   - 프로그래밍과 글쓰기
