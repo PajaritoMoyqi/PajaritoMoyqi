@@ -12,7 +12,6 @@
 
 - Ongoing Projects
 
-  - My Blog 마무리<br>
   - Architecture<br>
 
 - Pending Projects
@@ -95,7 +94,7 @@ etc :
   - [ ] Architecture 2 - 13 (Computer Security Advanced)
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
-  - [ ] Architecture 4 - 필수부분 완독
+  - [x] Architecture 4 - 필수부분 완독
   - [x] Architecture - Digital Audio Basic lecture (1-4)
   - [x] Architecture - Digital IC Design lecture (1-12)
   - [x] Architecture - Digital Logic Circuit lecture (1-8)
