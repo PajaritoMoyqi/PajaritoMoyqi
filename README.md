@@ -96,6 +96,7 @@ etc :
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
   - [ ] github repository name change & git remote url change
+  - [ ] 어셈블리어 강의 완강
 
 - 단장기 목표 ( ~ 23. 6. )
   - [ ] Circuit 정리 완료
