@@ -83,8 +83,8 @@ etc :
   - [ ] 라즈베리파이 구매
   - [x] Architecture 1 - 6/7/8 (Computer Structure Basic)
   - [x] Architecture 2 - 5 (Computer Structure Advanced)
-  - [ ] Architecture 3 - 4 (Computer Structure Deep Dive)
-  - [ ] Architecture 1 - 9, 2 - 6 (OS Basic Start, I/O and Network Advanced)
+  - [x] Architecture 3 - 4 (Computer Structure Deep Dive)
+  - [x] Architecture 1 - 9, 2 - 6 (OS Basic Start, I/O and Network Advanced)
   - [ ] Architecture 1 - 10/11, 2 - 7/8, 3 - 5/6 (OS Basic ongoing, Data Structure and Programming Advanced, Programming and NVM Deep Dive)
   - [ ] Architecture 3 - 7 (Network Deep Dive)
   - [ ] Architecture 1 - 12/13 (OS Basic ongoing)
@@ -96,7 +96,7 @@ etc :
   - [ ] Architecture 2 - 14, 3 - 9/10/11/12 (AI Advanced, Analog and IO Deep Dive)
   - [ ] Architecture 2 - 15 (How to be a good programmer)
   - [ ] github repository name change & git remote url change
-  - [ ] 어셈블리어 강의 완강
+  - [x] 어셈블리어 강의 완강
 
 - 단장기 목표 ( ~ 23. 6. )
   - [ ] Circuit 정리 완료
