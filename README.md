@@ -88,7 +88,7 @@ etc :
   - [ ] Architecture 1 - 10/11, 2 - 7/8, 3 - 5/6 (OS Basic ongoing, Data Structure and Programming Advanced, Programming and NVM Deep Dive)
   - [ ] Architecture 3 - 7 (Network Deep Dive)
   - [ ] Architecture 1 - 12/13 (OS Basic ongoing)
-  - [ ] Architecture 2 - 9/10 (WEB and Applications Advanced)
+  - [x] Architecture 2 - 9/10 (WEB and Applications Advanced)
   - [ ] Architecture 1 - 14/15 (OS Basic)
   - [ ] Architecture 3 - 8 (OS Deep Dive)
   - [ ] Architecture 2 - 11/12 (Algorithm and Async Advanced)
