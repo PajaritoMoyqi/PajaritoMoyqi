@@ -94,7 +94,7 @@ etc :
   - [x] Architecture 2 - 11/12 (Algorithm and Async Advanced)
   - [x] Architecture 2 - 13 (Computer Security Advanced)
   - [x] Architecture 2 - 14 (AI Advanced)
-  - [ ] Architecture 2 - 15 (How to be a good programmer)
+  - [x] Architecture 2 - 15 (How to be a good programmer)
   - [ ] github repository name change & git remote url change
   - [x] 어셈블리어 강의 완강
 
