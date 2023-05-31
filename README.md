@@ -13,17 +13,19 @@
 - Ongoing Projects
 
   - Architecture<br>
+  - Computing system 만들기<br>
+  - C<br>
 
 - Pending Projects
 
+  - Compiler 만들기<br>
+  - Rasberry Pi<br>
+  - Linux Kernel<br>
   - Spanish & Writing blog<br>
   - 프로그래밍과 글쓰기<br>
   - TypeScript<br>
   - GO<br>
   - Web 3.0<br>
-  - Computing system 만들기<br>
-  - Compiler 만들기<br>
-  - Rasberry Pi<br>
   - Github Actions(workflow)<br>
   - Web Accessibility<br>
   - commit message convention<br>
@@ -76,30 +78,18 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 5. 1 - 23. 5. 31 )
+- 단기 목표 ( 23. 6. 1 - 23. 6. 31 )
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] 라즈베리파이 구매
-  - [x] Architecture 1 - 6/7/8 (Computer Structure Basic)
-  - [x] Architecture 2 - 5 (Computer Structure Advanced)
-  - [x] Architecture 3 - 4 (Computer Structure Deep Dive)
-  - [x] Architecture 1 - 9, 2 - 6 (OS Basic Start, I/O and Network Advanced)
-  - [x] Architecture 1 - 10/11, 2 - 7/8, 3 - 5/6 (OS Basic ongoing, Data Structure and Programming Advanced, Programming and NVM Deep Dive)
-  - [x] Architecture 3 - 7 (Network Deep Dive)
-  - [x] Architecture 1 - 12/13 (OS Basic ongoing)
-  - [x] Architecture 2 - 9/10 (WEB and Applications Advanced)
-  - [x] Architecture 1 - 14/15 (OS Basic)
-  - [x] Architecture 3 - 8 (OS Deep Dive)
-  - [x] Architecture 2 - 11/12 (Algorithm and Async Advanced)
-  - [x] Architecture 2 - 13 (Computer Security Advanced)
-  - [x] Architecture 2 - 14 (AI Advanced)
-  - [x] Architecture 2 - 15 (How to be a good programmer)
   - [ ] github repository name change & git remote url change
-  - [x] 어셈블리어 강의 완강
+  - [ ] 밑바닥부터 만드는 컴퓨팅 시스템 2판
+  - [ ] 이것이 자료구조+알고리즘이다 w/C
+  - [ ] C pointer 추가 강의 학습
 
-- 단장기 목표 ( ~ 23. 6. )
-  - [ ] Circuit 정리 완료
+- 단장기 목표 ( ~ 23. 9. )
+  - [ ] 나의 미래는
 
 - 장기 목표 ( ~ 23. 12. )
   - [ ] Circuit 정리 완료
