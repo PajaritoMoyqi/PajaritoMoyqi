@@ -15,6 +15,7 @@
   - Architecture<br>
   - Computing system 만들기<br>
   - C<br>
+  - Algorithm<br>
 
 - Pending Projects
 
@@ -86,7 +87,7 @@ etc :
   - [ ] github repository name change & git remote url change
   - [ ] 밑바닥부터 만드는 컴퓨팅 시스템 2판
   - [ ] 이것이 자료구조+알고리즘이다 w/C
-  - [ ] C pointer 추가 강의 학습
+  - [x] C pointer 추가 강의 학습
 
 - 단장기 목표 ( ~ 23. 9. )
   - [ ] 나의 미래는
