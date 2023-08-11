@@ -83,13 +83,12 @@ etc :
   - [ ] SSH key copy 1
   - [ ] SSH key copy 2
   - [ ] 주식 api check
-  - [ ] 라즈베리파이 구매
   - [ ] github repository name change & git remote url change
   - [ ] 밑바닥부터 만드는 컴퓨팅 시스템 2판
   - [ ] 이것이 자료구조+알고리즘이다 w/C 글 정리
-  - [ ] C언어의 정석 글 정리
+  - [x] C언어의 정석 글 정리
   - [ ] 컴파일러 개발자가 알려주는 C 이야기
-  - [ ] 해커의 기쁨
+  - [ ] 해커의 기쁨 글 정리
   - [ ] 해커와 비트
 
 - 단장기 목표 ( ~ 23. 9. )
