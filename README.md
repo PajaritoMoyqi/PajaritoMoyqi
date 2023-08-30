@@ -84,16 +84,15 @@ etc :
   - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
+  - [ ] works page renewal
   - [ ] 밑바닥부터 만드는 컴퓨팅 시스템 2판
   - [ ] 이것이 자료구조+알고리즘이다 w/C 글 정리
   - [x] C언어의 정석 글 정리
-  - [ ] 컴파일러 개발자가 알려주는 C 이야기
-  - [ ] 해커의 기쁨 글 정리
   - [x] 비트의 세계
   - [x] Algorithm cheatsheet
   - [ ] Algorithm cheatsheet 기법 정리
   - [x] 반도체 전공면접
-  - [ ] 반도체 제대로 이해하기
+  - [x] 반도체 제대로 이해하기
   - [ ] 반도체 프로세스
 
 - 단장기 목표 ( ~ 23. 9. )
