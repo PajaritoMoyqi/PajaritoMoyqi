@@ -79,24 +79,13 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 8. 1 - 23. 8. 31 )
+- 단기 목표 ( 23. 10. 1 - 23. 10. 31 )
   - [ ] SSH key copy 1
-  - [ ] SSH key copy 2
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [ ] works page renewal
-  - [ ] 밑바닥부터 만드는 컴퓨팅 시스템 2판
   - [ ] 이것이 자료구조+알고리즘이다 w/C 글 정리
-  - [x] C언어의 정석 글 정리
-  - [x] 비트의 세계
-  - [x] Algorithm cheatsheet
-  - [ ] Algorithm cheatsheet 기법 정리
-  - [x] 반도체 전공면접
-  - [x] 반도체 제대로 이해하기
   - [ ] 반도체 프로세스
-
-- 단장기 목표 ( ~ 23. 9. )
-  - [ ] 나의 미래는
 
 - 장기 목표 ( ~ 24. )
   - [ ] Circuit 정리 완료
@@ -112,6 +101,7 @@ etc :
 
 - 더 공부할만한 것들
   - 프로그래밍과 글쓰기
+  - 밑바닥부터 만드는 컴퓨팅 시스템 2판
   - TypeScript
   - GO
   - Another node.js Server-side Framework(Next.js, Nest.js, etc)
