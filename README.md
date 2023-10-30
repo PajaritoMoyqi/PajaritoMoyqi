@@ -86,16 +86,19 @@ etc :
   - [ ] works page renewal
   - [ ] 이것이 자료구조+알고리즘이다 w/C 글 정리
   - [ ] 반도체 프로세스
-  - [ ] 에세이 MD 링크 에러 변경
-  - [ ] 블로그 MD 링크 에러 변경
+  - [x] 에세이 MD 링크 에러 변경
+  - [x] 블로그 MD 링크 에러 변경
+  - [ ] 알고리즘 예전 코드들 레포지토리에 더하기
 
 - 장기 목표 ( ~ 24. )
+  - [ ] 반도체 정리 완료
   - [ ] Circuit 정리 완료
   - [ ] Hardware 정리 완료
   - [ ] System 정리 완료
   - [ ] Computing System 제작 실습 완료
   - [ ] Compiler 제작 실습 완료
   - [ ] OS 제작 실습 완료
+  - [ ] Algorithm 정리 완료
   - [ ] first code review
   - [ ] more than 1% (code reviews)
   - [ ] more than 10% (code reviews)
