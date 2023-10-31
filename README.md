@@ -79,15 +79,13 @@ etc :
 
 ***
 
-- 단기 목표 ( 23. 10. 1 - 23. 10. 31 )
+- 단기 목표 ( 23. 11. 1 - 23. 11. 30 )
   - [ ] SSH key copy 1
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [ ] works page renewal
   - [ ] 이것이 자료구조+알고리즘이다 w/C 글 정리
   - [ ] 반도체 프로세스
-  - [x] 에세이 MD 링크 에러 변경
-  - [x] 블로그 MD 링크 에러 변경
   - [ ] 알고리즘 예전 코드들 레포지토리에 더하기
 
 - 장기 목표 ( ~ 24. )
