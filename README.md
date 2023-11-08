@@ -86,8 +86,7 @@ etc :
   - [ ] works page renewal
   - [ ] 이것이 자료구조+알고리즘이다 w/C 글 정리
   - [ ] 반도체 프로세스
-  - [ ] 알고리즘 예전 코드들 레포지토리에 더하기
-  - [ ] Godaddy domain
+  - [x] 알고리즘 예전 코드들 레포지토리에 더하기
   - [ ] 간단한 알고리즘들 정리
 
 - 장기 목표 ( ~ 24. )
@@ -103,6 +102,7 @@ etc :
   - [ ] more than 1% (code reviews)
   - [ ] more than 10% (code reviews)
   - [ ] more than 10% (pull requests)
+  - [ ] Godaddy domain
 
 - 더 공부할만한 것들
   - 프로그래밍과 글쓰기
