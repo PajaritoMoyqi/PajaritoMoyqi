@@ -84,8 +84,9 @@ etc :
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [ ] works page renewal
-  - [ ] 이것이 자료구조+알고리즘이다 w/C 글 정리
-  - [ ] 반도체 프로세스
+  - [x] 이것이 자료구조+알고리즘이다 w/C 글 정리
+  - [ ] 반도체 정리
+  - [ ] new domain
 
 - 장기 목표 ( ~ 24. )
   - [ ] 반도체 정리 완료
@@ -95,7 +96,7 @@ etc :
   - [ ] Computing System 제작 실습 완료
   - [ ] Compiler 제작 실습 완료
   - [ ] OS 제작 실습 완료
-  - [ ] Algorithm 정리 완료
+  - [x] Algorithm 정리 완료
   - [ ] first code review
   - [ ] more than 1% (code reviews)
   - [ ] more than 10% (code reviews)
