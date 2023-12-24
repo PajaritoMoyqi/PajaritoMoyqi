@@ -12,33 +12,8 @@
 
 - Ongoing Projects
 
-  - Architecture<br>
-  - Computing system 만들기<br>
-  - C<br>
-  - Algorithm<br>
-
-- Pending Projects
-
-  - Compiler 만들기<br>
-  - Rasberry Pi<br>
-  - Linux Kernel<br>
-  - Spanish & Writing blog<br>
-  - 프로그래밍과 글쓰기<br>
-  - TypeScript<br>
-  - GO<br>
-  - Web 3.0<br>
-  - Github Actions(workflow)<br>
-  - Web Accessibility<br>
-  - commit message convention<br>
-
-- Someday... Projects
-
-  - D3.js Summary<br>
-  - Lol stats project<br>
-  - 면접 시뮬레이터 수정<br>
-  - SW Engineering 실습<br>
-  - npm 주석 추가(after SW Engineering)<br>
-  - 객체지향<br>
+  - Architecture Summary
+  - Semiconductor Summary
 
 - Skills
 
@@ -85,38 +60,48 @@ etc :
   - [ ] github repository name change & git remote url change
   - [ ] works page renewal
   - [x] 이것이 자료구조+알고리즘이다 w/C 글 정리
-  - [ ] 반도체 정리
+  - [x] 반도체 정리
   - [ ] new domain
 
 - 장기 목표 ( ~ 24. )
-  - [ ] 반도체 정리 완료
-  - [ ] Circuit 정리 완료
-  - [ ] Hardware 정리 완료
-  - [ ] System 정리 완료
-  - [ ] Computing System 제작 실습 완료
-  - [ ] Compiler 제작 실습 완료
-  - [ ] OS 제작 실습 완료
+  - [x] 반도체 정리 완료
+  - [ ] Architecture 정리 완료
   - [x] Algorithm 정리 완료
   - [ ] first code review
   - [ ] more than 1% (code reviews)
-  - [ ] more than 10% (code reviews)
-  - [ ] more than 10% (pull requests)
+  - [ ] more than 5% (code reviews)
+  - [ ] more than 5% (pull requests)
   - [ ] Godaddy domain
 
 - 더 공부할만한 것들
   - 프로그래밍과 글쓰기
-  - 밑바닥부터 만드는 컴퓨팅 시스템 2판
+  - OS 제작 실습
+  - Compiler 제작 실습
+  - Computing System 제작 실습(밑바닥부터 만드는 컴퓨팅 시스템 2판 남은 부분)
+  - You Don't Know JS 2
+  - BitMask
+  - Signal
+  - IC circuit
+  - Network
+  - Rasberry Pi
+  - Linux Kernel
   - TypeScript
   - GO
+  - D3.js Summary
   - Another node.js Server-side Framework(Next.js, Nest.js, etc)
-  - React Native
   - *MORE* D3.js(or another framework for data-visualization)
-  - Computer Architecture
   - PWA
   - Jenkins
   - Web Accessibility
   - SEO
   - WEB 3.0
+  - commit message convention
+  - Github Actions(workflow)
+  - Lol stats project
+  - 면접 시뮬레이터 수정
+  - SW Engineering 실습
+  - npm 주석 추가(after SW Engineering)
+  - 객체지향
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
