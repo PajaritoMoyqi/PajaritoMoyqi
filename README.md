@@ -41,7 +41,7 @@ Infra :
   - [ ] github repository name change & git remote url change
   - [ ] works page renewal
   - [ ] new domain
-  - [ ] Computer Structure Summary 정리 시작!
+  - [x] Computer Structure Summary 정리 시작!
 
 - 장기 목표 ( ~ 24. )
   - [ ] Computer Structure 정리 완료
