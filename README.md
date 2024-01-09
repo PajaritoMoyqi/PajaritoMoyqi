@@ -2,7 +2,6 @@
 
 ***
 
-
 - Blogs & Projects
 
 개인 프로젝트 블로그 <a href="https://www.pajaritoprojects.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
@@ -36,21 +35,16 @@ Infra :
 
 ***
 
-![PajaritoMoyqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PajaritoMoyqi&show_icons=true&theme=radical)
-<br>
-&#8251; total commits는 비공개 repository(e.g. 이미 배포한 [개인블로그](http://www.pajaritoprojects.com "작은새 블로그") 등)의 통계가 포함되지 않은 수입니다.
-
-***
-
 - 단기 목표 ( 24. 1. 1 - 24. 1. 31 )
   - [ ] SSH key copy 1
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [ ] works page renewal
   - [ ] new domain
+  - [ ] Computer Structure Summary 정리 시작!
 
 - 장기 목표 ( ~ 24. )
-  - [ ] Architecture 정리 완료
+  - [ ] Computer Structure 정리 완료
   - [ ] first code review
   - [ ] more than 1% (code reviews)
 
