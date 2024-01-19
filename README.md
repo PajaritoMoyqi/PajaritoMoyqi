@@ -44,7 +44,7 @@ Infra :
   - [x] Computer Structure Summary 정리 시작!
 
 - 장기 목표 ( ~ 24. )
-  - [ ] Computer Structure 정리 완료
+  - [x] Computer Structure 정리 완료
   - [ ] first code review
   - [ ] more than 1% (code reviews)
 
