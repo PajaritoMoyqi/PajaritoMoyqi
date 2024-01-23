@@ -9,7 +9,8 @@
 
 - Ongoing Projects
 
-  - Architecture Summary
+  - OS Lecture(Listening)
+  - Make 6502(Listening)
 
 - Skills
 
@@ -42,6 +43,9 @@ Infra :
   - [ ] works page renewal
   - [ ] new domain
   - [x] Computer Structure Summary 정리 시작!
+  - [ ] DFS 시작
+  - [ ] OS 강의(kocw 반효경 교수)
+  - [ ] Build 6502 강의(Ben Eater)
 
 - 장기 목표 ( ~ 24. )
   - [x] Computer Structure 정리 완료
@@ -49,22 +53,16 @@ Infra :
   - [ ] more than 1% (code reviews)
 
 - 더 공부할만한 것들
-  - 프로그래밍과 글쓰기
-  - OS 제작 실습
+  - Signal
+  - Linux Kernel
+  - Network
   - Compiler 제작 실습
   - Computing System 제작 실습(밑바닥부터 만드는 컴퓨팅 시스템 2판 남은 부분)
-  - You Don't Know JS 2
-  - BitMask
-  - Signal
-  - IC circuit
-  - Network
   - Rasberry Pi
-  - Linux Kernel
-  - TypeScript
+  - BitMask
+  - You Don't Know JS 2
   - GO
-  - D3.js Summary
-  - Another node.js Server-side Framework(Next.js, Nest.js, etc)
-  - *MORE* D3.js(or another framework for data-visualization)
+  - TypeScript
   - PWA
   - Jenkins
   - Web Accessibility
@@ -72,11 +70,8 @@ Infra :
   - WEB 3.0
   - commit message convention
   - Github Actions(workflow)
-  - Lol stats project
-  - 면접 시뮬레이터 수정
-  - SW Engineering 실습
-  - npm 주석 추가(after SW Engineering)
-  - 객체지향
+  - OOP
+  - 프로그래밍과 글쓰기
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
