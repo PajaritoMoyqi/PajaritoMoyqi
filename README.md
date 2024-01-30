@@ -44,7 +44,7 @@ Infra :
   - [ ] new domain
   - [x] Computer Structure Summary 정리 시작!
   - [x] DFS 시작
-  - [ ] OS 강의(kocw 반효경 교수)
+  - [x] OS 강의(kocw 반효경 교수)
   - [ ] Build 6502 강의(Ben Eater)
 
 - 장기 목표 ( ~ 24. )
