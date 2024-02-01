@@ -9,8 +9,10 @@
 
 - Ongoing Projects
 
-  - OS Lecture(Listening)
-  - Make 6502(Listening)
+  - CS 자료 체크 및 보강
+  - Make 6502 Lecture(Listening)
+  - Network book
+  - Linux Kernel book
 
 - Skills
 
@@ -36,16 +38,15 @@ Infra :
 
 ***
 
-- 단기 목표 ( 24. 1. 1 - 24. 1. 31 )
+- 단기 목표 ( 24. 2. 1 - 24. 2. 29 )
   - [ ] SSH key copy 1
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [ ] works page renewal
   - [ ] new domain
-  - [x] Computer Structure Summary 정리 시작!
-  - [x] DFS 시작
-  - [x] OS 강의(kocw 반효경 교수)
   - [ ] Build 6502 강의(Ben Eater)
+  - [ ] 리눅스 커널 1
+  - [ ] 네트워크 하향식
 
 - 장기 목표 ( ~ 24. )
   - [x] Computer Structure 정리 완료
@@ -54,11 +55,9 @@ Infra :
 
 - 더 공부할만한 것들
   - Signal
-  - Linux Kernel
-  - Network
+  - Electronics
   - Compiler 제작 실습
-  - Computing System 제작 실습(밑바닥부터 만드는 컴퓨팅 시스템 2판 남은 부분)
-  - Rasberry Pi
+  - Computing System 제작 실습 (밑바닥부터 만드는 컴퓨팅 시스템 2판 남은 부분)
   - BitMask
   - You Don't Know JS 2
   - GO
