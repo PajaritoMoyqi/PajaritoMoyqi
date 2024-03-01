@@ -12,7 +12,6 @@
   - CS 자료 체크 및 보강
   - Make 6502 lecture(Listening)
   - Linux Kernel book
-  - Network 정리
 
 - Skills
 
@@ -38,7 +37,7 @@ Infra :
 
 ***
 
-- 단기 목표 ( 24. 2. 1 - 24. 2. 29 )
+- 단기 목표 ( 24. 3. 1 - 24. 3. 31 )
   - [ ] SSH key copy 1
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
@@ -46,9 +45,6 @@ Infra :
   - [ ] new domain
   - [ ] Build 6502 강의(Ben Eater)
   - [ ] 리눅스 커널 1
-  - [x] 네트워크 하향식
-  - [x] 컴퓨터네트워크 강의(이석복)
-  - [x] 네트워크 정리
 
 - 장기 목표 ( ~ 24. )
   - [x] Computer Structure 정리 완료
