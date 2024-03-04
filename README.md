@@ -46,7 +46,8 @@ Infra :
   - [ ] Build 6502 강의(Ben Eater)
   - [ ] 리눅스 커널 1
   - [ ] git flow
-  - [ ] 리뷰 포맷
+  - [x] 리뷰 포맷
+  - [ ] mail check
 
 - 장기 목표 ( ~ 24. )
   - [x] Computer Structure 정리 완료
