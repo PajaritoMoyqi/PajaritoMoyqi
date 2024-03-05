@@ -52,7 +52,7 @@ Infra :
 - 장기 목표 ( ~ 24. )
   - [x] Computer Structure 정리 완료
   - [x] first code review
-  - [ ] more than 1% (code reviews)
+  - [x] more than 1% (code reviews)
 
 - 더 공부할만한 것들
   - Signal
