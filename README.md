@@ -45,7 +45,7 @@ Infra :
   - [ ] new domain
   - [ ] Build 6502 강의(Ben Eater)
   - [ ] 리눅스 커널 1
-  - [ ] git flow
+  - [x] git flow
   - [x] 리뷰 포맷
   - [ ] mail check
 
