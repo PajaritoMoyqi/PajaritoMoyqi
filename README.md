@@ -41,7 +41,7 @@ Infra :
   - [ ] SSH key copy 1
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
-  - [ ] works page renewal
+  - [x] works page renewal
   - [ ] new domain
   - [ ] Build 6502 강의(Ben Eater)
   - [ ] 리눅스 커널 1
