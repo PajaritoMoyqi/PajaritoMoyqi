@@ -42,7 +42,7 @@ Infra :
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [x] works page renewal
-  - [ ] new domain
+  - [x] new domain
   - [ ] Build 6502 강의(Ben Eater)
   - [ ] 리눅스 커널 1
   - [x] git flow
