@@ -4,7 +4,7 @@
 
 - Blogs & Projects
 
-개인 프로젝트 블로그 <a href="https://www.pajaritoprojects.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
+개인 블로그 <a href="https://www.moyqi.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
 <br>
 
 - Ongoing Projects
