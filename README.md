@@ -41,19 +41,15 @@ Infra :
   - [ ] SSH key copy 1
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
-  - [x] works page renewal
-  - [x] new domain
   - [ ] Build 6502 강의(Ben Eater)
   - [ ] 리눅스 커널 1
-  - [x] 네트워크 강의
-  - [x] git flow
-  - [x] 리뷰 포맷
   - [ ] mail check
 
 - 장기 목표 ( ~ 24. )
   - [x] Computer Structure 정리 완료
-  - [x] first code review
   - [x] more than 1% (code reviews)
+  - [ ] more than 10% (code reviews)
+  - [ ] more than 10% (pull requests)
 
 - 더 공부할만한 것들
   - Signal
