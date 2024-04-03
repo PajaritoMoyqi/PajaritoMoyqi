@@ -37,11 +37,11 @@ Infra :
 
 ***
 
-- 단기 목표 ( 24. 3. 1 - 24. 3. 31 )
+- 단기 목표 ( 24. 4. 1 - 24. 4. 30 )
   - [ ] SSH key copy 1
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
-  - [ ] Build 6502 강의(Ben Eater)
+  - [x] Build 6502 강의(Ben Eater)
   - [ ] 리눅스 커널 1
   - [ ] mail check
 
