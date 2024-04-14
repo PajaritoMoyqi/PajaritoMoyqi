@@ -4,14 +4,12 @@
 
 - Blogs & Projects
 
-개인 블로그 <a href="https://www.moyqi.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito Projects Blog&color=<COLOR>"/></a>
+개인 블로그 <a href="https://www.moyqi.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito moyqi Blog&color=<COLOR>"/></a>
 <br>
 
 - Ongoing Projects
 
   - CS 자료 체크 및 보강
-  - Make 6502 lecture(Listening)
-  - Linux Kernel book
 
 - Skills
 
@@ -20,7 +18,7 @@ Languages :
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<br>
+
 Frameworks : 
 <img src="https://img.shields.io/badge/EJS-b4ca65?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
@@ -28,7 +26,7 @@ Frameworks :
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<br>
+
 Infra : 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
@@ -42,7 +40,7 @@ Infra :
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [x] Build 6502 강의(Ben Eater)
-  - [ ] 리눅스 커널 1
+  - [x] 리눅스 커널 1
   - [ ] mail check
 
 - 장기 목표 ( ~ 24. )
