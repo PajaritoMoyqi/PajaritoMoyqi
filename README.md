@@ -35,7 +35,7 @@ Infra :
 
 ***
 
-- 단기 목표 ( 24. 5. 1 - 24. 5. 31 )
+- 단기 목표 ( 24. 7. 1 - 24. 7. 31 )
   - [ ] 주식 api check
   - [ ] github repository name change & git remote url change
   - [ ] mail check
