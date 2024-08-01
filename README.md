@@ -1,15 +1,15 @@
-안녕하세요. 개발자이기도 하고 4개국어 구사자이기도 하고 노래도 좋아하는 사람입니다.
+Hello, I'm the one who can be called a developer or a quadrilingual or language-lover.
 
 ***
 
 - Blogs & Projects
 
-개인 블로그 <a href="https://www.moyqi.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito moyqi Blog&color=<COLOR>"/></a>
+Personal Blog <a href="https://www.moyqi.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/static/v1?label=Blog&message=Pajarito moyqi Blog&color=<COLOR>"/></a>
 <br>
 
 - Ongoing Projects
 
-  - CS 자료 체크 및 보강
+  - CS essay check and enhancement
 
 - Skills
 
@@ -35,20 +35,20 @@ Infra :
 
 ***
 
-- 단기 목표 ( 24. 7. 1 - 24. 7. 31 )
-  - [ ] 주식 api check
-  - [ ] github repository name change & git remote url change
+- Short-term goals ( 24. 8. 1 - 24. 8. 31 )
+  - [ ] CS Essay check
   - [ ] mail check
 
-- 장기 목표 ( ~ 24. )
+- Long-term goals ( ~ 24. )
   - [ ] more than 10% (code reviews)
   - [ ] more than 10% (pull requests)
 
-- 더 공부할만한 것들
+- More to learn
   - Signal
   - Electronics
-  - Compiler 제작 실습
-  - Computing System 제작 실습 (밑바닥부터 만드는 컴퓨팅 시스템 2판 남은 부분)
+  - Network(Advanced)
+  - Compiler Making
+  - Computing System Making (Book: 밑바닥부터 만드는 컴퓨팅 시스템 2판 남은 부분)
   - BitMask
   - You Don't Know JS 2
   - GO
@@ -61,7 +61,7 @@ Infra :
   - commit message convention
   - Github Actions(workflow)
   - OOP
-  - 프로그래밍과 글쓰기
+  - Programming & writing
 
 - 방문자 ( 2021-08-20T17:00 ~  )
 
