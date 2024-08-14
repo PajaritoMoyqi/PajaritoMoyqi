@@ -37,6 +37,7 @@ Infra :
 
 - Short-term goals ( 24. 8. 1 - 24. 8. 31 )
   - [ ] CS Essay check
+  - [ ] C Essay check
   - [ ] mail check
 
 - Long-term goals ( ~ 24. )
