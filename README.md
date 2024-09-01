@@ -9,7 +9,7 @@ Personal Blog <a href="https://www.moyqi.com" rel="noreferrer" target="_blank"><
 
 - Ongoing Projects
 
-  - CS essay check and enhancement
+  - Essays check and enhancement
 
 - Skills
 
@@ -36,7 +36,7 @@ Infra :
 
 ***
 
-- Short-term goals ( 24. 8. 1 - 24. 8. 31 )
+- Short-term goals ( 24. 9. 1 - 24. 9. 30 )
   - [ ] CS Essay check
   - [ ] C Essay check
   - [ ] Algorithm Essay check
