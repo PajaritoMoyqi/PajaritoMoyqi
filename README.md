@@ -39,7 +39,7 @@ Infra :
 - Short-term goals ( 24. 9. 1 - 24. 9. 30 )
   - [ ] CS Essay check
   - [x] C Essay check
-  - [ ] Algorithm Essay check
+  - [x] Algorithm Essay check
   - [ ] mail check
 
 - Long-term goals ( ~ 24. )
