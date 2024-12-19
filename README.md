@@ -36,7 +36,7 @@ Infra :
 
 ***
 
-- Short-term goals ( 24. 10. 1 - 24. 10. 31 )
+- Short-term goals ( 24. 12. 1 - 24. 12. 31 )
   - [x] Circuit Essay check
   - [ ] Semiconductor Essay check
   - [ ] mail check
