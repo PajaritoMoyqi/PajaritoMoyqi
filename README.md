@@ -36,12 +36,11 @@ Infra :
 
 ***
 
-- Short-term goals ( 24. 12. 1 - 24. 12. 31 )
-  - [x] Circuit Essay check
+- Short-term goals ( 25. 1. 1 - 25. 1. 31 )
   - [ ] Semiconductor Essay check
   - [ ] mail check
 
-- Long-term goals ( ~ 24. )
+- Long-term goals ( ~ 25. )
   - [ ] more than 10% (code reviews)
   - [ ] more than 10% (pull requests)
 
