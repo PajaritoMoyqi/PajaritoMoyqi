@@ -37,7 +37,8 @@ Infra :
 ***
 
 - Short-term goals ( 25. 1. 1 - 25. 1. 31 )
-  - [ ] Semiconductor Essay check
+  - [x] Semiconductor Essay check
+  - [ ] Logic Essay check
   - [ ] mail check
 
 - Long-term goals ( ~ 25. )
