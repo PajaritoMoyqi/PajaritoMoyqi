@@ -43,7 +43,7 @@ Infra :
   - [ ] mail check
 
 - Long-term goals ( ~ 25. )
-  - [ ] 10% or more (code reviews)
+  - [x] 10% or more (code reviews)
   - [x] 10% or more (pull requests)
 
 - More to learn
