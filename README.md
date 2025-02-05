@@ -4,12 +4,13 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 - Blogs & Projects
 
-  - Personal Blog: https://www.moyqi.com
+  - Personal Blog - https://www.moyqi.com
 
 - Ongoing Projects
 
   - Essays check and enhancement
   - Blog renewal
+  - Making Project Zomboid mod - Randomize Traits with Conditions
 
 - Skills
 
@@ -19,7 +20,6 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
   <img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br>
   - Frameworks : 
   <img src="https://img.shields.io/badge/EJS-b4ca65?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
@@ -27,7 +27,6 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <br>
   - Infra : 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
