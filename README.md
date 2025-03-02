@@ -6,6 +6,8 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
   - Personal Blog<br>
     Korean: https://kr.moyqi.com , English: https://en.moyqi.com
+  - Algorithm<br>
+    Baekjoon Online Judge: https://www.acmicpc.net/user/pajarito , Leetcode: https://leetcode.com/u/pajarito-moyqi/
 
 - Ongoing Projects
 
