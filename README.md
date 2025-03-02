@@ -4,7 +4,8 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 - Blogs & Projects
 
-  - Personal Blog - https://moyqi.com
+  - Personal Blog<br>
+    Korean: https://kr.moyqi.com , English: https://en.moyqi.com
 
 - Ongoing Projects
 
@@ -19,8 +20,7 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 ***
 
-- Short-term goals ( 25. 2. 1 - 25. 2. 28 )
-  - [x] Network Essay check
+- Short-term goals ( 25. 3. 1 - 25. 3. 31 )
   - [ ] mail check
 
 - More to learn
