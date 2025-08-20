@@ -22,8 +22,8 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 ***
 
-- Short-term goals ( 25. 7. 1 - 25. 7. 31 )
-  - [ ] mail check
+- Short-term goals ( 25. 8. 1 - 25. 8. 31 )
+  - Nothing right now
 
 - More to learn
   - Electronics
