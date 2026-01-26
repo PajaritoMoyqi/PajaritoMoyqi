@@ -22,7 +22,7 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 ***
 
-- Short-term goals ( 25. 9. 1 - 25. 9. 30 )
+- Short-term goals ( 26. 1. 1 - 26. 1. 31 )
 
 ~~Nothing right now~~
 
