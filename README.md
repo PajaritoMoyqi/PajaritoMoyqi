@@ -4,15 +4,12 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 - Blogs & Projects
 
-  - Personal Blog<br>
-    Korean: https://kr.moyqi.com , English: https://en.moyqi.com
   - Algorithm<br>
     Baekjoon Online Judge: https://www.acmicpc.net/user/pajarito , Leetcode: https://leetcode.com/u/pajarito-moyqi/
 
 - Ongoing Projects
 
-  - Blog renewal
-  - Making Project Zomboid mod - Randomize Traits with Conditions
+~~Nothing right now~~
 
 - Skills
 
@@ -22,7 +19,7 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 ***
 
-- Short-term goals ( 26. 1. 1 - 26. 1. 31 )
+- Short-term goals ( 26. 2. 1 - 26. 2. 28 )
 
 ~~Nothing right now~~
 
@@ -33,3 +30,4 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
   - PWA
   - SEO
   - Github Actions(workflow)
+  - MCP
