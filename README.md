@@ -19,7 +19,7 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 ***
 
-- Short-term goals ( 26. 2. 1 - 26. 2. 28 )
+- Short-term goals ( 26. 3. 1 - 26. 3. 31 )
 
 ~~Nothing right now~~
 
@@ -30,4 +30,3 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
   - PWA
   - SEO
   - Github Actions(workflow)
-  - MCP
