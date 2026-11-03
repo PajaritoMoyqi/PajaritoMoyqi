@@ -9,7 +9,7 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 - Ongoing Projects
 
-  - Making my blog alive.
+  - Making my projects alive.
 
 - Skills
 
@@ -19,7 +19,7 @@ Hello, I'm the one who can be called a developer or a quadrilingual or language-
 
 ***
 
-- Short-term goals ( 26. 10. 1 - 26. 10. 31 )
+- Short-term goals ( 26. 11. 1 - 26. 11. 30 )
 
 ~~Nothing right now~~
 
